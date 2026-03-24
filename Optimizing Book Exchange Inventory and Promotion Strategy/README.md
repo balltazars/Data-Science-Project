@@ -1,17 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/-CJIpeo7)
-# Milestones 1
-
-_Milestones 1 ini dibuat guna mengevaluasi pembelajaran pada Hacktiv8 Data Science Fulltime Program khususnya pada Phase 0._
-
-_version: GAIAv2.2_
-
-_update date: 20250304_
-
----
 
 ## Objectives
 
-*Milestone 1* ini dibuat dengan tujuan sebagai berikut :
+Project ini dibuat dengan tujuan sebagai berikut :
 
 - Mampu membangun problem statement dengan framework SMART sebagai salah satu langkah dalam Business Understanding.
 
