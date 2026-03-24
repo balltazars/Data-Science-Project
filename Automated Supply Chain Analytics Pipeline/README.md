@@ -17,8 +17,7 @@
 6. P2M3_clarence_manzo_data_clean.csv - A CSV file containing the cleaned dataset
 7. P2M3_clarence_manzo_data_raw.csv - A CSV file containing the original dataset
 8. P2M3_clarence_manzo_ddl.txt - A text file containing dataset URL, DDL syntax for table creation, and DML syntax for data insertion to database
-9. README.md - Summary description about the project
-10. description.md - Repository project description and documentation
+9. README.md - Repository project description and documentation
 
 ## Problem Background
 Management often struggles to gain a consolidated view of operations because data are stored in separate systems and reviewed independently. As the business expands, decision-making becomes difficult. Inventory shortages occur, logistics costs fluctuate without clear justification, and inefficient production is unnoticed. Therefore, leadership needs a centralized report to integrate operational and commercial metrics into a single and structured view.
