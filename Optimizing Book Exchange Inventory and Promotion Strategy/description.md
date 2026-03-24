@@ -80,16 +80,6 @@ Dataset URL: https://www.kaggle.com/datasets/sergiykovalchuck/the-most-popular-b
 
 Dashboard URL: https://public.tableau.com/app/profile/clarence.manzo/viz/P0M1_clarence_manzo/BookExchangeInsightsDashboard?publish=yes
 
----
-
-**Referensi tambahan:**
-- [Basic Writing and Syntax on Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Contoh readme](https://github.com/fahmimnalfrzki/Swift-XRT-Automation)
-- [Another example](https://github.com/sanggusti/final_bangkit) (**Must read**)
-
-- [Additional reference](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
-
-
 
 
 
