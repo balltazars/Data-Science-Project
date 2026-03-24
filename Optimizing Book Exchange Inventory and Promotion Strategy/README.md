@@ -4,9 +4,8 @@
 1. P0M1_clarence_manzo.ipynb - Notebook to load data, explore data, preprocessed data, and analyze data
 2. P0M1_clarence_manzo_dataset.csv - Raw dataset straight from the source
 3. P0M1_clarence_manzo_dataset_cleaned.csv - Cleaned dataset that is used for analyzing
-4. README.md - Summary description about the project
+4. README.md - Project description and documentation
 5. assignment-rubrics.png - Image containing assignment rubric
-6. description.md - Repository project description and documentation
 
 ## Problem Background
 A book-exchange platform operates by matching supply (available books) with demand (books requested for swapping) across different countries. However, the platform currently lacks data-driven insights to determine which books should be prioritized for inventory acquisition, promotion, and regional marketing.
