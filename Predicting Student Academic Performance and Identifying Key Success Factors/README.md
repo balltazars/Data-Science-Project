@@ -5,10 +5,9 @@
 2. P1M2_clarence_manzo.ipynb - Main notebook to load data, explore and analyze data, preprocess data, define and train model, and evaluate model
 3. P1M2_clarence_manzo_conceptual.txt - A text file to answer given conceptual problems
 4. P1M2_clarence_manzo_inf.ipynb - Notebook to test trained model on unseen data
-5. README.md - Summary description about the project
-6. description.md - Repository project description and documentation
-7. gb_pipeline.pkl - A serialized end-to-end Gradient Boosting pipeline to predict on raw unseen data
-8. url.txt - A text file containing URL to dataset, saved model, and web-app deployment
+5. README.md - Project description and documentation
+6. gb_pipeline.pkl - A serialized end-to-end Gradient Boosting pipeline to predict on raw unseen data
+7. url.txt - A text file containing URL to dataset, saved model, and web-app deployment
 
 ## Problem Background
 Educational institutions struggle to identify which students are likely to underperform before final exam results are known. Inefficient identification of “at-risk” students leads to higher failure rates. Because academic outcomes are influenced by diverse factors, a predictive model is needed to understand how these factors influence final performance. It will help decision-making and early intervention in schools and higher education institutions.
