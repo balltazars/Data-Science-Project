@@ -1,0 +1,986 @@
+id,title,author,genre,language,publicationYear,publisher,pageCount,tags,rating_average,most_popular_country,bestseller_status,awards,age_category,adapted_to_movie,movie_release_year
+1,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,English,1997,Bloomsbury,309,"magic,school,adventure",4.89,UK,True,"Smarties Prize,British Book Award",Children,True,2001
+2,To Kill a Mockingbird,Harper Lee,Southern Gothic,English,1960,J.B. Lippincott & Co.,281,"classic,law,racism,history",4.85,USA,True,Pulitzer Prize,Adult,True,1962
+3,1984,George Orwell,Dystopian,English,1949,Secker & Warburg,328,"politics,scifi,totalitarianism",4.8,UK,True,Prometheus Hall of Fame,Adult,True,1984
+4,The Great Gatsby,F. Scott Fitzgerald,Tragedy,English,1925,Charles Scribner's Sons,180,"classic,wealth,romance,jazz age",4.4,USA,True,None,Adult,True,2013
+5,The Hobbit,J.R.R. Tolkien,Fantasy,English,1937,George Allen & Unwin,310,"adventure,dragons,magic",4.75,UK,True,Keith Barker Millennium Book Award,Children,True,2012
+6,Pride and Prejudice,Jane Austen,Romance,English,1813,T. Egerton,279,"classic,love,victorian,satire",4.65,UK,True,None,Adult,True,2005
+7,The Catcher in the Rye,J.D. Salinger,Realism,English,1951,"Little, Brown and Company",234,"teen,classic,angst,coming-of-age",4.05,USA,True,None,Young Adult,False,1998
+8,The Da Vinci Code,Dan Brown,Thriller,English,2003,Doubleday,489,"mystery,religion,art,conspiracy",4.3,USA,True,British Book Award,Adult,True,2006
+9,The Hunger Games,Suzanne Collins,Dystopian,English,2008,Scholastic,374,"survival,action,romance,scifi",4.72,USA,True,California Young Reader Medal,Young Adult,True,2012
+10,The Lord of the Rings,J.R.R. Tolkien,Fantasy,English,1954,George Allen & Unwin,1178,"epic,magic,war,adventure",4.92,UK,True,International Fantasy Award,Adult,True,2001
+11,The Alchemist,Paulo Coelho,Adventure,English,1988,HarperCollins,163,"philosophy,travel,dreams",4.55,Brazil,True,Corine International Book Prize,Adult,False,1998
+12,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",C.S. Lewis,Fantasy,English,1950,Geoffrey Bles,208,"magic,kids,christianity,winter",4.7,UK,True,Lewis Carroll Shelf Award,Children,True,2005
+13,Animal Farm,George Orwell,Satire,English,1945,Secker & Warburg,112,"politics,animals,allegory",4.6,UK,True,Hugo Award,Adult,True,1954
+14,Jane Eyre,Charlotte Brontë,Gothic,English,1847,"Smith, Elder & Co.",500,"classic,romance,mystery",4.58,UK,True,None,Adult,True,2011
+15,Gone with the Wind,Margaret Mitchell,Historical Fiction,English,1936,Macmillan,1037,"war,romance,history,south",4.45,USA,True,"Pulitzer Prize,National Book Award",Adult,True,1939
+16,Fahrenheit 451,Ray Bradbury,Sci-Fi,English,1953,Ballantine Books,249,"censorship,future,books",4.5,USA,True,Prometheus Hall of Fame,Adult,True,1966
+17,Brave New World,Aldous Huxley,Dystopian,English,1932,Chatto & Windus,268,"science,society,philosophy",4.35,UK,True,None,Adult,True,1998
+18,Charlotte's Web,E.B. White,Children's Fiction,English,1952,Harper & Brothers,184,"animals,friendship,kids",4.8,USA,True,Newbery Honor,Children,True,2006
+19,The Kite Runner,Khaled Hosseini,Drama,English,2003,Riverhead Books,371,"friendship,betrayal,afghanistan",4.68,USA,True,Boeke Prize,Adult,True,2007
+20,The Book Thief,Markus Zusak,Historical Fiction,English,2005,Picador,552,"war,books,death,history",4.76,Australia,True,Michael L. Printz Award,Young Adult,True,2013
+21,The Little Prince,Antoine de Saint-Exupéry,Fable,English,1943,Reynal & Hitchcock,96,"philosophy,childhood,classic",4.95,USA,True,Retro Hugo,Children,True,1974
+22,The Handmaid's Tale,Margaret Atwood,Dystopian,English,1985,McClelland and Stewart,311,"feminism,dystopia,politics",4.12,Canada,True,Arthur C. Clarke Award,Adult,True,1990
+23,Jurassic Park,Michael Crichton,Sci-Fi,English,1990,Knopf,399,"dinosaurs,science,thriller",4.05,USA,True,None,Adult,True,1993
+24,The Fault in Our Stars,John Green,Romance,English,2012,Dutton Books,313,"love,sad,teen,illness",4.18,USA,True,Goodreads Choice Award,Young Adult,True,2014
+25,The Shining,Stephen King,Horror,English,1977,Doubleday,447,"horror,ghosts,psychological",4.25,USA,True,None,Adult,True,1980
+26,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Sci-Fi,English,1979,Pan Books,193,"humor,space,satire",4.22,UK,True,Golden Pan,Adult,True,2005
+27,Wuthering Heights,Emily Brontë,Gothic,English,1847,Thomas Cautley Newby,416,"classic,romance,revenge",3.88,UK,True,None,Adult,True,1939
+28,Little Women,Louisa May Alcott,Coming-of-age,English,1868,Roberts Brothers,759,"sisters,family,classic,history",4.1,USA,True,None,Children,True,2019
+29,Frankenstein,Mary Shelley,Sci-Fi,English,1818,"Lackington, Hughes",280,"horror,science,classic",3.85,UK,True,None,Adult,True,1931
+30,Alice's Adventures in Wonderland,Lewis Carroll,Fantasy,English,1865,Macmillan,200,"magic,classic,surreal",4.05,UK,True,None,Children,True,1951
+31,The Picture of Dorian Gray,Oscar Wilde,Gothic,English,1890,Lippincott's Monthly,254,"classic,philosophy,horror",4.11,UK,True,None,Adult,True,1945
+32,Gone Girl,Gillian Flynn,Thriller,English,2012,Crown Publishing Group,419,"mystery,crime,twist",4.1,USA,True,Goodreads Choice Award,Adult,True,2014
+33,The Girl with the Dragon Tattoo,Stieg Larsson,Crime,English,2005,Knopf,465,"mystery,sweden,hacker",4.15,Sweden,True,Glass Key Award,Adult,True,2011
+34,Life of Pi,Yann Martel,Adventure,English,2001,Knopf Canada,319,"survival,philosophy,animals",3.92,Canada,True,Man Booker Prize,Adult,True,2012
+35,The Giver,Lois Lowry,Dystopian,English,1993,Houghton Mifflin,208,"society,memory,future",4.13,USA,True,Newbery Medal,Young Adult,True,2014
+36,Twilight,Stephenie Meyer,Romance,English,2005,"Little, Brown",498,"vampires,love,teen",3.6,USA,True,Kids' Choice Award,Young Adult,True,2008
+37,Of Mice and Men,John Steinbeck,Tragedy,English,1937,Covici Friede,107,"friendship,depression,classic",3.89,USA,True,None,Adult,True,1992
+38,The Secret Garden,Frances Hodgson Burnett,Children's Fiction,English,1911,Frederick A. Stokes,331,"nature,healing,classic",4.15,UK,True,None,Children,True,1993
+39,Moby-Dick,Herman Melville,Adventure,English,1851,Harper & Brothers,635,"sea,whale,classic,obsession",3.5,USA,True,None,Adult,True,1956
+40,A Tale of Two Cities,Charles Dickens,Historical Fiction,English,1859,Chapman & Hall,489,"history,war,romance,classic",3.85,UK,True,None,Adult,True,1935
+41,Lord of the Flies,William Golding,Allegory,English,1954,Faber and Faber,224,"classic,survival,society,psychology",3.69,UK,True,Nobel Prize,Young Adult,True,1963
+42,A Game of Thrones,George R.R. Martin,Fantasy,English,1996,Bantam Spectra,835,"epic,politics,dragons,war",4.44,USA,True,Locus Award,Adult,True,2011
+43,The Godfather,Mario Puzo,Crime,English,1969,G. P. Putnam's Sons,448,"mafia,crime,family,italy",4.37,USA,True,None,Adult,True,1972
+44,Divergent,Veronica Roth,Dystopian,English,2011,Katherine Tegen Books,487,"action,romance,society",4.15,USA,True,Goodreads Choice Award,Young Adult,True,2014
+45,A Clockwork Orange,Anthony Burgess,Dystopian,English,1962,William Heinemann,192,"violence,classic,satire",3.99,UK,True,None,Adult,True,1971
+46,Dracula,Bram Stoker,Gothic Horror,English,1897,Archibald Constable,418,"vampires,horror,classic",4.01,UK,True,None,Adult,True,1931
+47,The Maze Runner,James Dashner,Sci-Fi,English,2009,Delacorte Press,375,"mystery,survival,action",4.04,USA,True,None,Young Adult,True,2014
+48,The Martian,Andy Weir,Sci-Fi,English,2011,Crown Publishing,369,"science,space,survival,humor",4.41,USA,True,Seiun Award,Adult,True,2015
+49,Into the Wild,Jon Krakauer,Biography,English,1996,Villard,224,"travel,nature,tragedy,nonfiction",4.0,USA,True,None,Adult,True,2007
+50,The Outsiders,S.E. Hinton,Coming-of-age,English,1967,Viking Press,192,"gangs,teen,friendship,classic",4.1,USA,True,New York Herald Tribune Best Teenage Book,Young Adult,True,1983
+51,Ready Player One,Ernest Cline,Sci-Fi,English,2011,Random House,374,"gaming,80s,adventure",4.23,USA,True,Prometheus Award,Young Adult,True,2018
+52,The Girl on the Train,Paula Hawkins,Thriller,English,2015,Riverhead Books,323,"mystery,crime,alcoholism",3.96,UK,True,Goodreads Choice Award,Adult,True,2016
+53,Water for Elephants,Sara Gruen,Historical Fiction,English,2006,Algonquin Books,335,"circus,animals,romance",4.1,Canada,True,Book Sense Book of the Year,Adult,True,2011
+54,Memoirs of a Geisha,Arthur Golden,Historical Fiction,English,1997,Knopf,448,"japan,culture,romance",4.14,USA,True,None,Adult,True,2005
+55,Fight Club,Chuck Palahniuk,Satire,English,1996,W. W. Norton,218,"anarchy,psychology,violence",4.19,USA,True,Pacific Northwest Booksellers Award,Adult,True,1999
+56,American Psycho,Bret Easton Ellis,Horror,English,1991,Vintage,399,"crime,satire,psychology",3.8,USA,True,None,Adult,True,2000
+57,The Road,Cormac McCarthy,Post-Apocalyptic,English,2006,Knopf,287,"survival,dark,fatherhood",3.99,USA,True,Pulitzer Prize,Adult,True,2009
+58,Room,Emma Donoghue,Drama,English,2010,"Little, Brown",321,"kidnap,family,psychology",4.08,Canada,True,Rogers Writers' Trust Fiction Prize,Adult,True,2015
+59,The Help,Kathryn Stockett,Historical Fiction,English,2009,Putnam,464,"racism,civil rights,friendship",4.47,USA,True,Boeke Prize,Adult,True,2011
+60,The Lovely Bones,Alice Sebold,Fantasy,English,2002,"Little, Brown",328,"crime,death,family,ghosts",3.85,USA,True,Bram Stoker Award,Adult,True,2009
+61,The Old Man and the Sea,Ernest Hemingway,Literary Fiction,English,1952,Charles Scribner's Sons,127,"fishing,struggle,classic",4.3,USA,True,"Pulitzer Prize,Nobel Prize",Adult,True,1958
+62,One Hundred Years of Solitude,Gabriel García Márquez,Magical Realism,English,1967,Harper & Row,417,"family,magic,colombia,classic",4.1,Colombia,True,Nobel Prize,Adult,False,1998
+64,Catch-22,Joseph Heller,Satire,English,1961,Simon & Schuster,453,"war,humor,absurdism",3.98,USA,True,None,Adult,True,1970
+65,Great Expectations,Charles Dickens,Coming-of-age,English,1861,Chapman & Hall,505,"classic,love,class,london",3.79,UK,True,None,Adult,True,1946
+66,The Bell Jar,Sylvia Plath,Semi-autobiographical,English,1963,Heinemann,244,"depression,feminism,mental health",4.03,USA,True,None,Adult,True,1979
+67,Slaughterhouse-Five,Kurt Vonnegut,Sci-Fi,English,1969,Delacorte,275,"war,time travel,satire",4.1,USA,True,None,Adult,True,1972
+68,Atonement,Ian McEwan,Drama,English,2001,Jonathan Cape,371,"war,love,betrayal,writing",3.93,UK,True,Booker Prize Shortlist,Adult,True,2007
+69,The Color Purple,Alice Walker,Epistolary,English,1982,Harcourt Brace,295,"racism,feminism,history",4.24,USA,True,"Pulitzer Prize,National Book Award",Adult,True,1985
+70,Dune,Frank Herbert,Sci-Fi,English,1965,Chilton Books,658,"space,politics,ecology,epic",4.26,USA,True,"Hugo,Nebula",Adult,True,2021
+71,Anna Karenina,Leo Tolstoy,Romance,English,1877,The Russian Messenger,964,"russia,classic,love,tragedy",4.08,Russia,True,None,Adult,True,2012
+73,The Secret History,Donna Tartt,Dark Academia,English,1992,Knopf,559,"mystery,college,obsession",4.15,USA,True,None,Adult,False,1998
+74,Things Fall Apart,Chinua Achebe,Historical Fiction,English,1958,Heinemann,209,"africa,history,tragedy",3.7,Nigeria,True,None,Adult,False,1998
+75,Crime and Punishment,Fyodor Dostoevsky,Psychological Fiction,English,1866,The Russian Messenger,671,"philosophy,crime,classic,russia",4.25,Russia,True,None,Adult,True,2002
+76,The Perks of Being a Wallflower,Stephen Chbosky,Coming-of-age,English,1999,MTV Books,213,"teen,mental health,friendship",4.22,USA,True,None,Young Adult,True,2012
+77,Coraline,Neil Gaiman,Dark Fantasy,English,2002,HarperCollins,162,"horror,magic,kids",4.1,UK,True,"Hugo,Nebula",Children,True,2009
+78,Matilda,Roald Dahl,Children's Fiction,English,1988,Jonathan Cape,240,"magic,school,humor",4.33,UK,True,Children's Book Award,Children,True,1996
+79,Ender's Game,Orson Scott Card,Sci-Fi,English,1985,Tor Books,324,"space,war,strategy",4.31,USA,True,"Hugo,Nebula",Young Adult,True,2013
+80,Where the Crawdads Sing,Delia Owens,Mystery,English,2018,G. P. Putnam's Sons,368,"nature,romance,mystery",4.41,USA,True,Goodreads Choice Award,Adult,True,2022
+81,The Pillars of the Earth,Ken Follett,Historical Fiction,English,1989,Macmillan,973,"history,architecture,epic",4.33,UK,True,None,Adult,True,2010
+82,The Name of the Wind,Patrick Rothfuss,Fantasy,English,2007,DAW Books,662,"magic,music,adventure",4.52,USA,True,Quill Award,Adult,False,1998
+83,The Night Circus,Erin Morgenstern,Fantasy,English,2011,Doubleday,387,"magic,romance,circus",4.02,USA,True,Locus Award,Adult,False,1998
+84,One Flew Over the Cuckoo's Nest,Ken Kesey,Psychological Fiction,English,1962,Viking Press,325,"mental health,rebellion,classic",4.2,USA,True,None,Adult,True,1975
+85,The Silence of the Lambs,Thomas Harris,Thriller,English,1988,St. Martin's Press,338,"crime,horror,psychology",4.23,USA,True,Bram Stoker Award,Adult,True,1991
+86,Rebecca,Daphne du Maurier,Gothic,English,1938,Victor Gollancz,449,"mystery,romance,classic",4.24,UK,True,National Book Award,Adult,True,1940
+87,Watership Down,Richard Adams,Fantasy,English,1972,Rex Collings,478,"animals,adventure,classic",4.05,UK,True,Carnegie Medal,Young Adult,True,1978
+88,American Gods,Neil Gaiman,Fantasy,English,2001,William Morrow,635,"mythology,road trip,americana",4.11,USA,True,"Hugo,Nebula",Adult,True,2017
+89,A Tree Grows in Brooklyn,Betty Smith,Coming-of-age,English,1943,Harper & Brothers,493,"family,classic,poverty",4.25,USA,True,None,Young Adult,True,1945
+90,The Grapes of Wrath,John Steinbeck,Historical Fiction,English,1939,Viking Press,464,"history,poverty,social",3.98,USA,True,"Pulitzer Prize,National Book Award",Adult,True,1940
+91,Lolita,Vladimir Nabokov,Classic,English,1955,Olympia Press,336,"controversial,classic,psychology",3.88,USA,True,None,Adult,True,1962
+92,Romeo and Juliet,William Shakespeare,Tragedy,English,1597,John Danter,281,"play,love,tragedy,classic",3.75,UK,True,None,Young Adult,True,1968
+93,Hamlet,William Shakespeare,Tragedy,English,1603,Nicholas Ling,342,"play,revenge,philosophy",4.02,UK,True,None,Adult,True,1948
+95,Don Quixote,Miguel de Cervantes,Adventure,Spanish,1605,Francisco de Robles,928,"classic,satire,spain",3.88,Spain,True,None,Adult,True,1972
+96,Les Misérables,Victor Hugo,Historical Fiction,French,1862,A. Lacroix,1463,"history,france,justice,classic",4.18,France,True,None,Adult,True,2012
+97,War and Peace,Leo Tolstoy,Historical Fiction,Russian,1869,The Russian Messenger,1225,"history,russia,war,classic",4.14,Russia,True,None,Adult,True,1956
+98,Ulysses,James Joyce,Modernist,English,1922,Sylvia Beach,730,"classic,dublin,complex",3.73,Ireland,True,None,Adult,True,1967
+99,Beloved,Toni Morrison,Magical Realism,English,1987,Knopf,324,"history,ghosts,slavery",3.93,USA,True,Pulitzer Prize,Adult,True,1998
+100,Cloud Atlas,David Mitchell,Sci-Fi,English,2004,Sceptre,509,"time,philosophy,connection",4.02,UK,True,British Book Award,Adult,True,2012
+101,Foundation,Isaac Asimov,Sci-Fi,English,1951,Gnome Press,255,"space,empire,psychohistory",4.18,USA,True,Hugo Award,Adult,True,2021
+102,Neuromancer,William Gibson,Cyberpunk,English,1984,Ace,271,"cyberpunk,hacker,future",3.89,USA,True,"Hugo,Nebula,Philip K. Dick Award",Adult,False,1998
+103,Snow Crash,Neal Stephenson,Sci-Fi,English,1992,Bantam Spectra,480,"cyberpunk,metaverse,satire",4.03,USA,True,None,Adult,False,1998
+104,Hyperion,Dan Simmons,Sci-Fi,English,1989,Doubleday,482,"space,opera,time,religion",4.26,USA,True,Hugo Award,Adult,False,1998
+105,The Three-Body Problem,Cixin Liu,Sci-Fi,English,2008,Chongqing Press,399,"aliens,physics,china",4.08,China,True,Hugo Award,Adult,True,2023
+106,Norwegian Wood,Haruki Murakami,Romance,English,1987,Kodansha,296,"japan,love,loss,music",4.03,Japan,True,None,Adult,True,2010
+107,Kafka on the Shore,Haruki Murakami,Magical Realism,English,2002,Shinchosha,505,"cats,japan,magic,surreal",4.13,Japan,True,World Fantasy Award,Adult,False,1998
+108,Never Let Me Go,Kazuo Ishiguro,Sci-Fi,English,2005,Faber and Faber,288,"dystopia,clones,friendship",3.83,UK,True,None,Adult,True,2010
+109,The Remains of the Day,Kazuo Ishiguro,Historical Fiction,English,1989,Faber and Faber,258,"history,memory,class",4.13,UK,True,Booker Prize,Adult,True,1993
+110,Midnight's Children,Salman Rushdie,Magical Realism,English,1981,Jonathan Cape,647,"india,history,magic,politics",3.98,India,True,Booker Prize,Adult,True,2012
+111,White Teeth,Zadie Smith,Contemporary Fiction,English,2000,Hamish Hamilton,448,"london,race,family,humor",3.78,UK,True,Whitbread Book Award,Adult,True,2002
+112,The God of Small Things,Arundhati Roy,Drama,English,1997,IndiaInk,321,"india,family,caste,tragedy",3.95,India,True,Booker Prize,Adult,False,1998
+113,The Goldfinch,Donna Tartt,Bildungsroman,English,2013,"Little, Brown",771,"art,crime,coming-of-age",3.92,USA,True,Pulitzer Prize,Adult,True,2019
+114,All the Light We Cannot See,Anthony Doerr,Historical Fiction,English,2014,Scribner,531,"war,history,radio,blindness",4.33,USA,True,Pulitzer Prize,Adult,True,2023
+115,The Nightingale,Kristin Hannah,Historical Fiction,English,2015,St. Martin's Press,440,"war,sisters,france,resistance",4.6,USA,True,Goodreads Choice Award,Adult,True,2024
+116,The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Romance,English,2017,Atria Books,389,"hollywood,lgbt,romance",4.43,USA,True,Goodreads Choice Award,Adult,True,2025
+117,Daisy Jones & The Six,Taylor Jenkins Reid,Historical Fiction,English,2019,Ballantine Books,355,"music,70s,rock,interview",4.2,USA,True,None,Adult,True,2023
+118,It Ends with Us,Colleen Hoover,Romance,English,2016,Atria Books,384,"romance,abuse,contemporary",4.24,USA,True,Goodreads Choice Award,Adult,True,2024
+119,Big Little Lies,Liane Moriarty,Mystery,English,2014,Putnam,460,"secrets,marriage,australia",4.28,Australia,True,None,Adult,True,2017
+120,Sharp Objects,Gillian Flynn,Thriller,English,2006,Shaye Areheart,254,"mystery,dark,crime,family",4.0,USA,True,None,Adult,True,2018
+121,The Woman in the Window,A.J. Finn,Thriller,English,2018,William Morrow,427,"mystery,suspense,crime",3.95,USA,True,None,Adult,True,2021
+122,Steve Jobs,Walter Isaacson,Biography,English,2011,Simon & Schuster,656,"tech,biography,apple,business",4.15,USA,True,None,Adult,True,2015
+123,Educated,Tara Westover,Memoir,English,2018,Random House,334,"memoir,family,education",4.47,USA,True,Goodreads Choice Award,Adult,False,1998
+124,Becoming,Michelle Obama,Memoir,English,2018,Crown,426,"politics,memoir,women",4.49,USA,True,Grammy Award,Adult,True,2020
+125,Born a Crime,Trevor Noah,Memoir,English,2016,Spiegel & Grau,289,"humor,africa,memoir",4.49,South Africa,True,Thurber Prize,Adult,False,1998
+126,Quiet: The Power of Introverts,Susan Cain,Non-fiction,English,2012,Crown,352,"psychology,business,self-help",4.07,USA,True,Goodreads Choice Award,Adult,False,1998
+127,Atomic Habits,James Clear,Self-Help,English,2018,Avery,319,"psychology,growth,productivity",4.35,USA,True,None,Adult,False,1998
+128,"Thinking, Fast and Slow",Daniel Kahneman,Psychology,English,2011,"Farrar, Straus and Giroux",499,"science,psychology,economics",4.18,Israel,True,National Academy of Sciences Best Book,Adult,False,1998
+129,Sapiens: A Brief History of Humankind,Yuval Noah Harari,History,English,2011,Harvill Secker,443,"history,anthropology,science",4.36,Israel,True,Wenjin Book Award,Adult,False,1998
+130,Outliers: The Story of Success,Malcolm Gladwell,Non-fiction,English,2008,"Little, Brown",309,"sociology,success,psychology",4.18,Canada,True,None,Adult,False,1998
+131,The Immortal Life of Henrietta Lacks,Rebecca Skloot,Biography,English,2010,Crown,369,"science,history,medicine",4.07,USA,True,National Academies Communication Award,Adult,True,2017
+132,Into Thin Air,Jon Krakauer,Non-fiction,English,1997,Villard,332,"adventure,mountain,tragedy",4.19,USA,True,None,Adult,True,1997
+133,Wild,Cheryl Strayed,Memoir,English,2012,Knopf,315,"travel,nature,memoir",4.01,USA,True,None,Adult,True,2014
+134,"Eat, Pray, Love",Elizabeth Gilbert,Memoir,English,2006,Viking,334,"travel,romance,food",3.6,USA,True,None,Adult,True,2010
+135,The Glass Castle,Jeannette Walls,Memoir,English,2005,Scribner,288,"family,poverty,memoir",4.28,USA,True,Christopher Award,Adult,True,2017
+136,Good Omens,Terry Pratchett & Neil Gaiman,Fantasy,English,1990,Gollancz,412,"humor,magic,satire",4.24,UK,True,None,Adult,True,2019
+137,The Color of Magic,Terry Pratchett,Fantasy,English,1983,Colin Smythe,206,"humor,magic,discworld",3.99,UK,True,None,Adult,True,2008
+138,Americanah,Chimamanda Ngozi Adichie,Romance,English,2013,Knopf,588,"race,africa,immigration",4.3,Nigeria,True,National Book Critics Circle Award,Adult,True,1998
+139,Pachinko,Min Jin Lee,Historical Fiction,English,2017,Grand Central,490,"history,japan,korea,family",4.31,USA,True,National Book Award Finalist,Adult,True,2022
+140,Homegoing,Yaa Gyasi,Historical Fiction,English,2016,Knopf,300,"history,slavery,africa,family",4.48,Ghana,True,John Leonard Prize,Adult,False,1998
+141,Station Eleven,Emily St. John Mandel,Sci-Fi,English,2014,Knopf,333,"dystopia,pandemic,art",4.04,Canada,True,Arthur C. Clarke Award,Adult,True,2021
+142,Circe,Madeline Miller,Fantasy,English,2018,"Little, Brown",393,"mythology,magic,feminism",4.24,USA,True,Goodreads Choice Award,Adult,False,1998
+143,The Song of Achilles,Madeline Miller,Historical Fiction,English,2011,Ecco,378,"mythology,romance,war",4.42,USA,True,Orange Prize,Adult,False,1998
+144,Normal People,Sally Rooney,Romance,English,2018,Faber & Faber,273,"love,ireland,coming-of-age",3.81,Ireland,True,British Book Award,Adult,True,2020
+145,Conversations with Friends,Sally Rooney,Fiction,English,2017,Faber & Faber,304,"love,relationships,ireland",3.48,Ireland,True,None,Adult,True,2022
+146,Eleanor Oliphant Is Completely Fine,Gail Honeyman,Fiction,English,2017,HarperCollins,336,"loneliness,mental health,humor",4.25,UK,True,Costa Book Award,Adult,False,1998
+147,A Man Called Ove,Fredrik Backman,Fiction,English,2012,Forum,337,"humor,sweden,heartwarming",4.37,Sweden,True,None,Adult,True,2015
+148,Beartown,Fredrik Backman,Drama,English,2016,Pir,418,"sports,community,tragedy",4.32,Sweden,True,Goodreads Choice Award Finalist,Adult,True,2020
+149,Dark Matter,Blake Crouch,Sci-Fi,English,2016,Crown,342,"multiverse,thriller,science",4.11,USA,True,None,Adult,True,2024
+150,Project Hail Mary,Andy Weir,Sci-Fi,English,2021,Ballantine Books,476,"space,science,aliens,survival",4.51,USA,True,Dragon Award,Adult,True,2025
+151,And Then There Were None,Agatha Christie,Mystery,English,1939,Collins Crime Club,264,"crime,island,suspense,classic",4.26,UK,True,None,Adult,True,1945
+152,The Big Sleep,Raymond Chandler,Crime,English,1939,Knopf,231,"noir,detective,los angeles",4.0,USA,True,None,Adult,True,1946
+153,The Maltese Falcon,Dashiell Hammett,Crime,English,1930,Knopf,217,"noir,detective,mystery",3.94,USA,True,None,Adult,True,1941
+154,V for Vendetta,Alan Moore,Graphic Novel,English,1982,Vertigo,296,"dystopia,anarchy,politics",4.25,UK,True,Prometheus Hall of Fame,Adult,True,2005
+155,Watchmen,Alan Moore,Graphic Novel,English,1986,DC Comics,416,"superheroes,cold war,noir",4.36,USA,True,Hugo Award,Adult,True,2009
+156,Maus,Art Spiegelman,Graphic Novel,English,1980,Pantheon,296,"history,holocaust,memoir",4.56,USA,True,Pulitzer Prize,Adult,False,1998
+157,Persepolis,Marjane Satrapi,Memoir,English,2000,L'Association,341,"iran,history,graphic novel",4.25,France,True,None,Adult,True,2007
+158,Man's Search for Meaning,Viktor E. Frankl,Psychology,English,1946,Verlag für Jugend und Volk,165,"holocaust,philosophy,psychology",4.36,Austria,True,None,Adult,False,1998
+159,Thinking in Systems,Donella H. Meadows,Non-fiction,English,2008,Chelsea Green,240,"science,management,philosophy",4.2,USA,False,None,Adult,False,1998
+160,Zero to One,Peter Thiel,Business,English,2014,Crown Business,195,"business,startup,tech",4.17,USA,True,None,Adult,False,1998
+161,The Lean Startup,Eric Ries,Business,English,2011,Crown Business,336,"business,management,tech",4.1,USA,True,None,Adult,False,1998
+162,Grit: The Power of Passion and Perseverance,Angela Duckworth,Psychology,English,2016,Scribner,333,"success,psychology,self-help",4.08,USA,True,None,Adult,False,1998
+163,Mindset: The New Psychology of Success,Carol S. Dweck,Psychology,English,2006,Random House,320,"psychology,growth,education",4.08,USA,True,None,Adult,False,1998
+164,Flow: The Psychology of Optimal Experience,Mihaly Csikszentmihalyi,Psychology,English,1990,Harper & Row,303,"psychology,happiness,science",4.11,USA,True,None,Adult,False,1998
+165,The Prophet,Kahlil Gibran,Poetry,English,1923,Knopf,127,"philosophy,spirituality,classic",4.24,Lebanon,True,None,Adult,True,2014
+166,Siddhartha,Hermann Hesse,Philosophy,English,1922,New Directions,152,"buddhism,india,classic",4.05,Germany,True,Nobel Prize,Adult,True,1972
+167,Steppenwolf,Hermann Hesse,Philosophy,English,1927,S. Fischer Verlag,237,"psychology,classic,loneliness",3.95,Germany,True,Nobel Prize,Adult,True,1974
+168,East of Eden,John Steinbeck,Historical Fiction,English,1952,Viking Press,601,"classic,family,good vs evil",4.38,USA,True,Nobel Prize,Adult,True,1955
+169,The Sun Also Rises,Ernest Hemingway,Modernist,English,1926,Scribner,251,"travel,spain,lost generation",3.84,USA,True,None,Adult,True,1957
+170,For Whom the Bell Tolls,Ernest Hemingway,War,English,1940,Scribner,471,"war,spain,romance,classic",3.97,USA,True,None,Adult,True,1943
+171,As I Lay Dying,William Faulkner,Southern Gothic,English,1930,Cape and Smith,267,"classic,stream of consciousness,south",3.73,USA,True,Nobel Prize,Adult,True,2013
+172,The Sound and the Fury,William Faulkner,Southern Gothic,English,1929,Cape and Smith,326,"classic,difficult,tragedy",3.86,USA,True,Nobel Prize,Adult,True,1959
+174,Native Son,Richard Wright,Fiction,English,1940,Harper & Brothers,504,"race,poverty,crime",4.16,USA,True,None,Adult,True,1951
+176,I Know Why the Caged Bird Sings,Maya Angelou,Autobiography,English,1969,Random House,289,"memoir,race,feminism",4.24,USA,True,National Book Award Nominee,Adult,True,1979
+177,The Joy Luck Club,Amy Tan,Fiction,English,1989,Putnam,288,"family,china,mother-daughter",3.93,USA,True,None,Adult,True,1993
+178,Interpreter of Maladies,Jhumpa Lahiri,Short Stories,English,1999,Houghton Mifflin,198,"india,culture,short stories",4.15,USA,True,Pulitzer Prize,Adult,False,1998
+179,The White Tiger,Aravind Adiga,Fiction,English,2008,Atlantic Books,276,"india,class,satire",3.76,India,True,Booker Prize,Adult,True,2021
+180,Shantaram,Gregory David Roberts,Adventure,English,2003,Scribe,936,"india,crime,travel",4.27,Australia,True,None,Adult,True,2022
+181,The Shadow of the Wind,Carlos Ruiz Zafón,Mystery,English,2001,Planeta,487,"books,barcelona,history,gothic",4.28,Spain,True,Barry Award,Adult,False,1998
+182,Love in the Time of Cholera,Gabriel García Márquez,Romance,English,1985,Knopf,348,"love,colombia,classic",3.92,Colombia,True,Nobel Prize,Adult,True,2007
+183,The House of the Spirits,Isabel Allende,Magical Realism,English,1982,Plaza & Janés,448,"chile,family,magic,politics",4.24,Chile,True,None,Adult,True,1993
+184,Like Water for Chocolate,Laura Esquivel,Magical Realism,English,1989,Doubleday,224,"food,mexico,romance,magic",3.95,Mexico,True,None,Adult,True,1992
+185,Ficciones,Jorge Luis Borges,Short Stories,English,1944,Sur,174,"surreal,philosophy,classic",4.43,Argentina,True,None,Adult,False,1998
+186,The Savage Detectives,Roberto Bolaño,Fiction,English,1998,Anagrama,609,"mexico,literature,travel",4.18,Chile,True,Rómulo Gallegos Prize,Adult,False,1998
+187,My Brilliant Friend,Elena Ferrante,Fiction,English,2011,Europa Editions,331,"italy,friendship,coming-of-age",4.0,Italy,True,None,Adult,True,2018
+188,The Unbearable Lightness of Being,Milan Kundera,Philosophy,English,1984,Gallimard,320,"philosophy,love,history,prague",4.11,Czech Republic,True,None,Adult,True,1988
+189,Blindness,José Saramago,Dystopian,English,1995,Caminho,326,"society,survival,horror",4.14,Portugal,True,Nobel Prize,Adult,True,2008
+190,The Trial,Franz Kafka,Absurdist,English,1925,Verlag Die Schmiede,255,"law,surreal,bureaucracy",3.98,Austria,True,None,Adult,True,1962
+191,Nausea,Jean-Paul Sartre,Philosophy,English,1938,Gallimard,178,"existentialism,philosophy,france",3.92,France,True,Nobel Prize,Adult,False,1998
+192,Waiting for Godot,Samuel Beckett,Play,English,1953,Minuit,109,"absurdism,play,classic",3.83,Ireland,True,Nobel Prize,Adult,True,2001
+193,Rosencrantz and Guildenstern Are Dead,Tom Stoppard,Play,English,1966,Faber & Faber,126,"play,humor,absurdism",4.16,UK,True,Tony Award,Adult,True,1990
+194,The Metamorphosis,Franz Kafka,Absurdist,English,1915,Kurt Wolff,201,"surreal,classic,alienation",3.82,Austria,True,None,Adult,True,1987
+195,Breakfast of Champions,Kurt Vonnegut,Satire,English,1973,Delacorte,303,"humor,satire,drawings",4.08,USA,True,None,Adult,True,1999
+196,Cat's Cradle,Kurt Vonnegut,Sci-Fi,English,1963,"Holt, Rinehart and Winston",306,"satire,science,religion,end of world",4.17,USA,True,Hugo Nominee,Adult,False,1998
+197,Fear and Loathing in Las Vegas,Hunter S. Thompson,Gonzo Journalism,English,1971,Random House,204,"drugs,journalism,humor",4.08,USA,True,None,Adult,True,1998
+198,No Country for Old Men,Cormac McCarthy,Thriller,English,2005,Knopf,309,"crime,western,violence",4.15,USA,True,None,Adult,True,2007
+199,Blood Meridian,Cormac McCarthy,Western,English,1985,Random House,337,"violence,western,history",4.18,USA,True,None,Adult,False,1998
+200,Pale Fire,Vladimir Nabokov,Metafiction,English,1962,Putnam,315,"complex,poetry,satire",4.18,USA,True,None,Adult,False,1998
+201,A Study in Scarlet,Arthur Conan Doyle,Detective,English,1887,Ward Lock & Co,123,"mystery,sherlock,classic",4.15,UK,True,None,Adult,True,1933
+202,The Hound of the Baskervilles,Arthur Conan Doyle,Detective,English,1902,George Newnes,256,"mystery,horror,classic",4.13,UK,True,None,Adult,True,1939
+203,The Adventures of Sherlock Holmes,Arthur Conan Doyle,Detective,English,1892,George Newnes,307,"mystery,short stories,classic",4.3,UK,True,None,Adult,True,1939
+204,Do Androids Dream of Electric Sheep?,Philip K. Dick,Sci-Fi,English,1968,Doubleday,244,"cyberpunk,philosophy,ai",4.08,USA,True,Nebula Nominee,Adult,True,1982
+205,Ubik,Philip K. Dick,Sci-Fi,English,1969,Doubleday,227,"surreal,philosophy,sci-fi",4.07,USA,True,None,Adult,False,1998
+206,2001: A Space Odyssey,Arthur C. Clarke,Sci-Fi,English,1968,New American Library,297,"space,ai,evolution",4.16,UK,True,None,Adult,True,1968
+207,Rendezvous with Rama,Arthur C. Clarke,Sci-Fi,English,1973,Gollancz,243,"space,aliens,mystery",4.1,UK,True,"Hugo,Nebula",Adult,False,1998
+208,The Left Hand of Darkness,Ursula K. Le Guin,Sci-Fi,English,1969,Ace Books,304,"gender,politics,winter",4.08,USA,True,"Hugo,Nebula",Adult,False,1998
+209,A Wizard of Earthsea,Ursula K. Le Guin,Fantasy,English,1968,Parnassus Press,183,"magic,dragons,classic",4.01,USA,True,Lewis Carroll Shelf Award,Young Adult,True,2006
+210,The Dispossessed,Ursula K. Le Guin,Sci-Fi,English,1974,Harper & Row,387,"politics,anarchy,utopia",4.23,USA,True,"Hugo,Nebula",Adult,False,1998
+211,Kindred,Octavia E. Butler,Sci-Fi,English,1979,Doubleday,264,"time travel,slavery,history",4.26,USA,True,Hugo Award,Adult,True,2022
+212,Parable of the Sower,Octavia E. Butler,Dystopian,English,1993,Four Walls Eight Windows,345,"survival,religion,future",4.19,USA,True,Nebula Nominee,Adult,False,1998
+213,The Man in the High Castle,Philip K. Dick,Alternate History,English,1962,Putnam,259,"history,war,japan,germany",3.63,USA,True,Hugo Award,Adult,True,2015
+214,Starship Troopers,Robert A. Heinlein,Sci-Fi,English,1959,Putnam,263,"war,military,politics",4.0,USA,True,Hugo Award,Adult,True,1997
+215,Stranger in a Strange Land,Robert A. Heinlein,Sci-Fi,English,1961,Putnam,528,"philosophy,religion,mars",3.91,USA,True,Hugo Award,Adult,False,1998
+216,"I, Robot",Isaac Asimov,Sci-Fi,English,1950,Gnome Press,253,"robots,ai,classic",4.2,USA,True,None,Adult,True,2004
+217,The Caves of Steel,Isaac Asimov,Detective Sci-Fi,English,1954,Doubleday,206,"mystery,robots,sci-fi",4.17,USA,True,None,Adult,False,1998
+218,Flowers for Algernon,Daniel Keyes,Sci-Fi,English,1966,Harcourt,311,"psychology,sad,classic",4.15,USA,True,Nebula Award,Adult,True,1968
+219,A Wrinkle in Time,Madeleine L'Engle,Sci-Fi,English,1962,"Farrar, Straus & Giroux",218,"time travel,family,kids",3.99,USA,True,Newbery Medal,Children,True,2018
+220,Bridge to Terabithia,Katherine Paterson,Children's Fiction,English,1977,Crowell,163,"friendship,tragedy,imagination",4.02,USA,True,Newbery Medal,Children,True,2007
+221,Holes,Louis Sachar,Adventure,English,1998,"Farrar, Straus and Giroux",233,"mystery,humor,kids",4.18,USA,True,Newbery Medal,Children,True,2003
+222,The Phantom Tollbooth,Norton Juster,Fantasy,English,1961,Random House,256,"humor,puns,classic",4.23,USA,True,None,Children,True,1970
+223,Charlie and the Chocolate Factory,Roald Dahl,Fantasy,English,1964,Knopf,176,"candy,humor,classic",4.15,UK,True,None,Children,True,1971
+224,James and the Giant Peach,Roald Dahl,Fantasy,English,1961,Knopf,146,"adventure,insects,magic",4.02,UK,True,None,Children,True,1996
+225,The BFG,Roald Dahl,Fantasy,English,1982,Jonathan Cape,199,"giants,magic,friendship",4.24,UK,True,None,Children,True,2016
+226,The Count of Monte Cristo,Alexandre Dumas,Adventure,English,1844,Pétition,1276,"revenge,classic,france,history",4.27,France,True,None,Adult,True,2002
+227,The Three Musketeers,Alexandre Dumas,Adventure,English,1844,Baudry,700,"adventure,swords,friendship",4.07,France,True,None,Adult,True,1993
+228,Madame Bovary,Gustave Flaubert,Realism,English,1856,Revue de Paris,329,"adultery,classic,tragedy",3.68,France,True,None,Adult,True,2014
+229,The Hunchback of Notre-Dame,Victor Hugo,Gothic,English,1831,Gosselin,510,"paris,classic,tragedy",4.0,France,True,None,Adult,True,1996
+230,Journey to the Center of the Earth,Jules Verne,Sci-Fi,English,1864,Pierre-Jules Hetzel,240,"adventure,science,classic",3.86,France,True,None,Adult,True,2008
+231,Twenty Thousand Leagues Under the Sea,Jules Verne,Adventure,English,1870,Pierre-Jules Hetzel,266,"sea,submarine,classic",3.89,France,True,None,Adult,True,1954
+232,Around the World in Eighty Days,Jules Verne,Adventure,English,1872,Pierre-Jules Hetzel,200,"travel,adventure,classic",3.93,France,True,None,Adult,True,2004
+233,Notes from Underground,Fyodor Dostoevsky,Philosophy,English,1864,Epoch,96,"philosophy,existentialism,russia",4.17,Russia,True,None,Adult,False,1998
+234,The Brothers Karamazov,Fyodor Dostoevsky,Philosophy,English,1880,The Russian Messenger,796,"religion,family,murder",4.32,Russia,True,None,Adult,True,1958
+235,The Idiot,Fyodor Dostoevsky,Classic,English,1869,The Russian Messenger,667,"russia,classic,tragedy",4.19,Russia,True,None,Adult,True,1958
+236,Dead Souls,Nikolai Gogol,Satire,English,1842,University Press,432,"russia,humor,classic",3.96,Russia,True,None,Adult,True,1984
+237,The Master and Margarita,Mikhail Bulgakov,Satire,English,1967,YMCA Press,384,"magic,russia,satire,cats",4.3,Russia,True,None,Adult,True,2024
+238,We,Yevgeny Zamyatin,Dystopian,English,1924,Dutton,226,"dystopia,russia,scifi",3.94,Russia,True,Prometheus Hall of Fame,Adult,False,1998
+239,Solaris,Stanisław Lem,Sci-Fi,English,1961,MON,204,"space,psychology,philosophy",3.99,Poland,True,None,Adult,True,2002
+240,The Witcher: The Last Wish,Andrzej Sapkowski,Fantasy,English,1993,SuperNOWA,288,"magic,monsters,short stories",4.14,Poland,True,None,Adult,True,2019
+241,Blood of Elves,Andrzej Sapkowski,Fantasy,English,1994,SuperNOWA,320,"magic,war,destiny",4.09,Poland,True,David Gemmell Legend Award,Adult,True,2019
+242,Metro 2033,Dmitry Glukhovsky,Sci-Fi,English,2005,Eksmo,458,"post-apocalyptic,horror,russia",3.95,Russia,True,None,Adult,False,1998
+243,Roadside Picnic,Arkady Strugatsky,Sci-Fi,English,1972,Molodaya Gvardiya,145,"aliens,zone,classic",4.24,Russia,True,John W. Campbell Award,Adult,True,1979
+244,Heart of Darkness,Joseph Conrad,Novella,English,1899,Blackwood's,77,"colonialism,africa,psychology",3.43,UK,True,None,Adult,True,1993
+245,Lord Jim,Joseph Conrad,Adventure,English,1900,Blackwood's,350,"sea,honor,classic",3.7,UK,True,None,Adult,True,1965
+246,The Secret Agent,Joseph Conrad,Spy Fiction,English,1907,Methuen,249,"terrorism,london,classic",3.6,UK,True,None,Adult,True,1996
+247,Gulliver's Travels,Jonathan Swift,Satire,English,1726,Benjamin Motte,306,"travel,satire,classic",3.57,Ireland,True,None,Adult,True,2010
+248,Robinson Crusoe,Daniel Defoe,Adventure,English,1719,William Taylor,320,"survival,island,classic",3.67,UK,True,None,Adult,True,1997
+249,Moll Flanders,Daniel Defoe,Picaresque,English,1722,W. Chetwood,336,"crime,history,classic",3.55,UK,True,None,Adult,True,1996
+250,The Screwtape Letters,C.S. Lewis,Satire,English,1942,Geoffrey Bles,175,"religion,humor,philosophy",4.23,UK,True,None,Adult,False,1998
+251,The Time Machine,H.G. Wells,Sci-Fi,English,1895,Heinemann,118,"time travel,classic,future",3.88,UK,True,None,Adult,True,1960
+252,The War of the Worlds,H.G. Wells,Sci-Fi,English,1898,Heinemann,192,"aliens,invasion,classic",3.83,UK,True,None,Adult,True,1953
+253,The Invisible Man,H.G. Wells,Sci-Fi,English,1897,C. Arthur Pearson,192,"science,madness,classic",3.65,UK,True,None,Adult,True,1933
+254,The Call of the Wild,Jack London,Adventure,English,1903,Macmillan,232,"animals,nature,classic",4.0,USA,True,None,Young Adult,True,2020
+255,White Fang,Jack London,Adventure,English,1906,Macmillan,298,"animals,nature,classic",4.0,USA,True,None,Young Adult,True,1991
+256,The Adventures of Tom Sawyer,Mark Twain,Adventure,English,1876,American Publishing,244,"classic,childhood,humor",3.92,USA,True,None,Children,True,1938
+257,Adventures of Huckleberry Finn,Mark Twain,Adventure,English,1884,Chatto & Windus,366,"classic,race,satire",3.83,USA,True,None,Young Adult,True,1993
+258,Carrie,Stephen King,Horror,English,1974,Doubleday,199,"horror,school,powers",3.98,USA,True,None,Adult,True,1976
+259,Pet Sematary,Stephen King,Horror,English,1983,Doubleday,395,"horror,death,grief",4.03,USA,True,Locus Nominee,Adult,True,1989
+260,Salem's Lot,Stephen King,Horror,English,1975,Doubleday,483,"vampires,horror,small town",4.03,USA,True,World Fantasy Nominee,Adult,True,1979
+261,The Call of Cthulhu,H.P. Lovecraft,Horror,English,1928,Weird Tales,43,"horror,cosmic,mythos",4.2,USA,True,None,Adult,True,2005
+262,Stardust,Neil Gaiman,Fantasy,English,1999,Spike,248,"magic,romance,fairytale",4.09,UK,True,Mythopoeic Award,Young Adult,True,2007
+263,The Graveyard Book,Neil Gaiman,Fantasy,English,2008,HarperCollins,312,"ghosts,growing up,magic",4.12,UK,True,"Newbery Medal,Hugo",Children,False,1998
+264,Death on the Nile,Agatha Christie,Mystery,English,1937,Collins Crime Club,288,"crime,egypt,classic",4.11,UK,True,None,Adult,True,1978
+265,The Murder of Roger Ackroyd,Agatha Christie,Mystery,English,1926,Collins Crime Club,288,"crime,twist,classic",4.25,UK,True,None,Adult,True,2000
+266,The Silkworm,Robert Galbraith,Mystery,English,2014,Sphere,455,"crime,london,publishing",4.05,UK,True,None,Adult,True,2017
+267,The Cuckoo's Calling,Robert Galbraith,Mystery,English,2013,Sphere,455,"crime,model,london",3.87,UK,True,Los Angeles Times Book Prize,Adult,True,2017
+268,The Sign of Four,Arthur Conan Doyle,Detective,English,1890,Spencer Blackett,129,"mystery,treasure,classic",3.92,UK,True,None,Adult,True,1983
+269,Interview with the Vampire,Anne Rice,Horror,English,1976,Knopf,342,"vampires,gothic,history",4.0,USA,True,None,Adult,True,1994
+270,The Queen's Gambit,Walter Tevis,Fiction,English,1983,Random House,243,"chess,addiction,genius",4.2,USA,True,None,Adult,True,2020
+271,The Princess Bride,William Goldman,Fantasy,English,1973,Harcourt,456,"romance,humor,adventure",4.26,USA,True,None,Young Adult,True,1987
+272,The Last Unicorn,Peter S. Beagle,Fantasy,English,1968,Viking Press,294,"magic,classic,animals",4.17,USA,True,Mythopoeic Award,Young Adult,True,1982
+273,Howl's Moving Castle,Diana Wynne Jones,Fantasy,English,1986,Greenwillow,329,"magic,romance,studio ghibli",4.29,UK,True,Phoenix Award,Young Adult,True,2004
+274,The Neverending Story,Michael Ende,Fantasy,German,1979,Thienemann,396,"magic,books,classic",4.18,Germany,True,None,Children,True,1984
+275,Inkheart,Cornelia Funke,Fantasy,German,2003,Dressler,563,"books,magic,adventure",3.89,Germany,True,None,Children,True,2008
+276,Artemis Fowl,Eoin Colfer,Fantasy,English,2001,Viking,280,"crime,magic,fairies",3.85,Ireland,True,Young Reader's Choice,Children,True,2020
+277,The Lightning Thief,Rick Riordan,Fantasy,English,2005,Hyperion,377,"mythology,gods,adventure",4.26,USA,True,Red House Children's Book Award,Children,True,2010
+278,The Golden Compass,Philip Pullman,Fantasy,English,1995,Scholastic,399,"magic,daemons,parallel worlds",3.99,UK,True,Carnegie Medal,Young Adult,True,2007
+279,The Subtle Knife,Philip Pullman,Fantasy,English,1997,Scholastic,326,"magic,adventure,worlds",4.14,UK,True,None,Young Adult,True,2019
+280,The Amber Spyglass,Philip Pullman,Fantasy,English,2000,Scholastic,518,"epic,philosophy,war",4.09,UK,True,Whitbread Book of the Year,Young Adult,True,2019
+281,Eragon,Christopher Paolini,Fantasy,English,2002,Paolini International,503,"dragons,magic,adventure",3.91,USA,True,None,Young Adult,True,2006
+282,City of Bones,Cassandra Clare,Fantasy,English,2007,Margaret K. McElderry,485,"demons,romance,urban fantasy",4.09,USA,True,None,Young Adult,True,2013
+283,Throne of Glass,Sarah J. Maas,Fantasy,English,2012,Bloomsbury,404,"assassin,magic,romance",4.19,USA,True,None,Young Adult,False,1998
+284,A Court of Thorns and Roses,Sarah J. Maas,Fantasy,English,2015,Bloomsbury,419,"romance,fae,retelling",4.18,USA,True,Goodreads Choice Nominee,Adult,False,1998
+285,"Red, White & Royal Blue",Casey McQuiston,Romance,English,2019,St. Martin's Griffin,421,"lgbt,romance,politics",4.13,USA,True,Goodreads Choice Award,Adult,True,2023
+286,The Hating Game,Sally Thorne,Romance,English,2016,William Morrow,387,"romance,enemies to lovers,humor",3.6,Australia,True,Goodreads Choice Nominee,Adult,True,2021
+287,Beach Read,Emily Henry,Romance,English,2020,Berkley,361,"romance,books,summer",4.05,USA,True,Goodreads Choice Nominee,Adult,False,1998
+288,Book Lovers,Emily Henry,Romance,English,2022,Berkley,377,"romance,books,sisters",4.32,USA,True,Goodreads Choice Award,Adult,False,1998
+289,The Love Hypothesis,Ali Hazelwood,Romance,English,2021,Berkley,384,"romance,science,fake dating",4.14,Italy,True,Goodreads Choice Nominee,Adult,False,1998
+290,Me Before You,Jojo Moyes,Romance,English,2012,Pamela Dorman,369,"romance,tragedy,life",4.26,UK,True,None,Adult,True,2016
+291,Bridget Jones's Diary,Helen Fielding,Romance,English,1996,Picador,288,"humor,london,romance",3.76,UK,True,British Book Award,Adult,True,2001
+292,The Devil Wears Prada,Lauren Weisberger,Fiction,English,2003,Doubleday,360,"fashion,new york,humor",3.75,USA,True,None,Adult,True,2006
+293,Confessions of a Shopaholic,Sophie Kinsella,Romance,English,2000,Black Swan,320,"humor,romance,shopping",3.64,UK,True,None,Adult,True,2009
+294,High Fidelity,Nick Hornby,Fiction,English,1995,Victor Gollancz,240,"music,romance,humor",3.93,UK,True,None,Adult,True,2000
+295,About a Boy,Nick Hornby,Fiction,English,1998,Victor Gollancz,278,"humor,growing up,london",3.8,UK,True,None,Adult,True,2002
+296,Crazy Rich Asians,Kevin Kwan,Satire,English,2013,Doubleday,403,"wealth,asia,romance",3.83,Singapore,True,None,Adult,True,2018
+297,Requiem for a Dream,Hubert Selby Jr.,Fiction,English,1978,Playboy Press,279,"drugs,tragedy,addiction",4.12,USA,True,None,Adult,True,2000
+298,Choke,Chuck Palahniuk,Satire,English,2001,Doubleday,293,"satire,dark,humor",3.68,USA,True,None,Adult,True,2008
+299,Trainspotting,Irvine Welsh,Fiction,English,1993,Secker & Warburg,344,"drugs,scotland,dark",4.09,UK,True,None,Adult,True,1996
+300,A Scanner Darkly,Philip K. Dick,Sci-Fi,English,1977,Doubleday,219,"drugs,dystopia,paranoia",4.03,USA,True,BSFA Award,Adult,True,2006
+301,In Cold Blood,Truman Capote,True Crime,English,1966,Random House,343,"crime,history,journalism",4.08,USA,True,Edgar Award,Adult,True,1967
+302,The Silent Patient,Alex Michaelides,Thriller,English,2019,Celadon Books,336,"mystery,twist,psychology",4.17,UK,True,Goodreads Choice Award,Adult,False,1998
+303,Digital Fortress,Dan Brown,Thriller,English,1998,St. Martin's Press,384,"tech thriller,espionage",3.6,US,False,None,Adult,True,1999
+304,Shutter Island,Dennis Lehane,Thriller,English,2003,HarperCollins,369,"mystery,horror,twist",4.1,USA,True,None,Adult,True,2010
+305,Where the Wild Things Are,Maurice Sendak,Children's Fiction,English,1963,Harper & Row,48,"classic,imagination,kids",4.23,USA,True,Caldecott Medal,Children,True,2009
+306,The Cat in the Hat,Dr. Seuss,Children's Fiction,English,1957,Random House,61,"rhyme,humor,kids",4.18,USA,True,None,Children,True,2003
+307,Green Eggs and Ham,Dr. Seuss,Children's Fiction,English,1960,Random House,62,"rhyme,food,kids",4.3,USA,True,None,Children,True,1998
+308,Goodnight Moon,Margaret Wise Brown,Children's Fiction,English,1947,Harper & Brothers,30,"bedtime,kids,classic",4.28,USA,True,None,Children,False,1998
+309,The Very Hungry Caterpillar,Eric Carle,Children's Fiction,English,1969,World Publishing,22,"nature,kids,colors",4.31,USA,True,None,Children,False,1998
+310,Infinite Jest,David Foster Wallace,Satire,English,1996,"Little, Brown",1079,"complex,tennis,addiction",4.29,USA,True,None,Adult,False,1998
+311,Gravity's Rainbow,Thomas Pynchon,Historiographic Metafiction,English,1973,Viking Press,776,"war,complex,postmodern",4.0,USA,True,National Book Award,Adult,False,1998
+312,A Thousand Splendid Suns,Khaled Hosseini,Historical Fiction,English,2007,Riverhead Books,384,"war,afghanistan,women",4.42,USA,True,Goodreads Choice Award,Adult,False,1998
+313,The Secret Life of Bees,Sue Monk Kidd,Historical Fiction,English,2001,Viking,336,"south,family,race",4.07,USA,True,Book Sense Book of the Year,Young Adult,True,2008
+314,Night,Elie Wiesel,Memoir,English,1960,Hill & Wang,115,"holocaust,history,memoir",4.36,Romania,True,Nobel Prize,Adult,False,1998
+315,Angela's Ashes,Frank McCourt,Memoir,English,1996,Scribner,368,"ireland,poverty,memoir",4.13,Ireland,True,Pulitzer Prize,Adult,True,1999
+316,Tuesdays with Morrie,Mitch Albom,Memoir,English,1997,Doubleday,192,"philosophy,death,inspiration",4.13,USA,True,None,Adult,True,1999
+318,Meditations,Marcus Aurelius,Philosophy,English,180,Unknown,254,"stoicism,philosophy,rome",4.26,Italy,True,None,Adult,False,1998
+320,The Prince,Niccolò Machiavelli,Philosophy,English,1532,Antonio Blado,140,"politics,power,history",3.83,Italy,True,None,Adult,False,1998
+321,Thus Spoke Zarathustra,Friedrich Nietzsche,Philosophy,English,1883,Chemnitz,352,"philosophy,germany,existentialism",4.08,Germany,True,None,Adult,False,1998
+322,Rich Dad Poor Dad,Robert T. Kiyosaki,Finance,English,1997,Plata Publishing,336,"money,business,self-help",4.13,USA,True,None,Adult,False,1998
+323,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help,English,1989,Free Press,381,"business,psychology,growth",4.15,USA,True,None,Adult,False,1998
+324,How to Win Friends and Influence People,Dale Carnegie,Self-Help,English,1936,Simon & Schuster,288,"business,psychology,social",4.22,USA,True,None,Adult,False,1998
+325,Good to Great,Jim Collins,Business,English,2001,HarperBusiness,300,"business,management,leadership",4.13,USA,True,None,Adult,False,1998
+326,Freakonomics,Steven D. Levitt,Economics,English,2005,William Morrow,320,"economics,sociology,science",3.99,USA,True,None,Adult,True,2010
+327,A Brief History of Time,Stephen Hawking,Science,English,1988,Bantam,212,"physics,space,science",4.2,UK,True,None,Adult,True,1991
+328,Cosmos,Carl Sagan,Science,English,1980,Random House,365,"space,science,astronomy",4.39,USA,True,Hugo Award,Adult,True,1980
+329,The Selfish Gene,Richard Dawkins,Science,English,1976,Oxford University Press,360,"biology,evolution,science",4.16,UK,True,None,Adult,False,1998
+330,"Guns, Germs, and Steel",Jared Diamond,History,English,1997,W. W. Norton,480,"anthropology,history,science",4.04,USA,True,Pulitzer Prize,Adult,True,2005
+331,Team of Rivals,Doris Kearns Goodwin,Biography,English,2005,Simon & Schuster,944,"history,politics,biography",4.28,USA,True,Lincoln Prize,Adult,True,2012
+332,Alexander Hamilton,Ron Chernow,Biography,English,2004,Penguin,818,"history,biography,politics",4.25,USA,True,George Washington Book Prize,Adult,True,2020
+333,Unbroken,Laura Hillenbrand,Biography,English,2010,Random House,473,"war,history,survival",4.38,USA,True,None,Adult,True,2014
+334,Wild Swans: Three Daughters of China,Jung Chang,Biography,English,1991,Simon & Schuster,524,"china,history,women",4.27,China,True,NCR Book Award,Adult,False,1998
+335,Chronicle of a Death Foretold,Gabriel García Márquez,Novella,English,1981,Knopf,120,"mystery,magical realism,crime",3.98,Colombia,True,None,Adult,True,1987
+336,Perfume: The Story of a Murderer,Patrick Süskind,Historical Horror,English,1985,Diogenes,263,"horror,france,scent",4.04,Germany,True,World Fantasy Award,Adult,True,2006
+337,The Name of the Rose,Umberto Eco,Mystery,English,1980,Bompiani,536,"history,mystery,philosophy",4.13,Italy,True,Strega Prize,Adult,True,1986
+338,Foucault's Pendulum,Umberto Eco,Mystery,English,1988,Bompiani,641,"conspiracy,history,complex",3.92,Italy,True,None,Adult,False,1998
+339,Half of a Yellow Sun,Chimamanda Ngozi Adichie,Historical Fiction,English,2006,Knopf,433,"africa,war,love",4.33,Nigeria,True,Women's Prize for Fiction,Adult,True,2013
+340,Purple Hibiscus,Chimamanda Ngozi Adichie,Fiction,English,2003,Algonquin Books,307,"africa,family,coming-of-age",4.21,Nigeria,True,Commonwealth Writers Prize,Adult,False,1998
+341,Middlesex,Jeffrey Eugenides,Historical Fiction,English,2002,"Farrar, Straus & Giroux",529,"gender,family,epic",4.02,USA,True,Pulitzer Prize,Adult,False,1998
+342,The Virgin Suicides,Jeffrey Eugenides,Fiction,English,1993,"Farrar, Straus & Giroux",250,"tragedy,mystery,sisters",3.85,USA,True,None,Adult,True,1999
+343,A Prayer for Owen Meany,John Irving,Fiction,English,1989,William Morrow,637,"friendship,faith,classic",4.24,USA,True,None,Adult,True,1998
+344,The World According to Garp,John Irving,Fiction,English,1978,Dutton,609,"feminism,satire,writing",4.1,USA,True,National Book Award,Adult,True,1982
+345,Bel Canto,Ann Patchett,Fiction,English,2001,HarperCollins,318,"music,terrorism,romance",3.93,USA,True,Orange Prize,Adult,True,2018
+346,Little Fires Everywhere,Celeste Ng,Mystery,English,2017,Penguin,338,"family,secrets,motherhood",4.09,USA,True,Goodreads Choice Award,Adult,True,2020
+347,Doctor Zhivago,Boris Pasternak,Historical Fiction,English,1957,Feltrinelli,592,"russia,war,love,classic",3.99,Russia,True,Nobel Prize,Adult,True,1965
+348,Atlas Shrugged,Ayn Rand,Philosophy,English,1957,Random House,1168,"philosophy,politics,controversial",3.69,USA,True,None,Adult,True,2011
+349,The Fountainhead,Ayn Rand,Philosophy,English,1943,Bobbs-Merrill,704,"architecture,philosophy,individualism",3.88,USA,True,None,Adult,True,1949
+350,The Lost World,Michael Crichton,Sci-Fi,English,1995,Knopf,393,"dinosaurs,adventure,sequel",3.8,USA,True,None,Adult,True,1997
+351,The Stand,Stephen King,Horror,English,1978,Doubleday,1152,"post-apocalyptic,good vs evil,epic",4.34,USA,True,None,Adult,True,1994
+352,Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,Gothic,English,1886,"Longmans, Green & Co.",88,"horror,classic,duality",3.82,UK,True,None,Adult,True,1931
+353,Treasure Island,Robert Louis Stevenson,Adventure,English,1883,Cassell & Co.,230,"pirates,classic,treasure",3.83,UK,True,None,Children,True,1950
+354,Peter Pan,J.M. Barrie,Fantasy,English,1911,Hodder & Stoughton,207,"magic,classic,fairies",4.07,UK,True,None,Children,True,1953
+355,The Wind in the Willows,Kenneth Grahame,Children's Fiction,English,1908,Methuen,208,"animals,friendship,classic",3.98,UK,True,None,Children,True,1996
+356,Winnie-the-Pooh,A.A. Milne,Children's Fiction,English,1926,Methuen,145,"animals,friendship,classic",4.34,UK,True,None,Children,True,1977
+357,Mary Poppins,P.L. Travers,Fantasy,English,1934,Gerald Howe,209,"magic,nanny,classic",3.99,UK,True,None,Children,True,1964
+358,Pippi Longstocking,Astrid Lindgren,Children's Fiction,Swedish,1945,Rabén & Sjögren,160,"humor,sweden,classic",4.14,Sweden,True,None,Children,True,1988
+359,Anne of Green Gables,L.M. Montgomery,Children's Fiction,English,1908,L.C. Page & Co.,320,"classic,canada,growing up",4.26,Canada,True,None,Children,True,1985
+360,Heidi,Johanna Spyri,Children's Fiction,German,1880,Perthes,352,"alps,classic,nature",3.99,Switzerland,True,None,Children,True,1937
+361,Black Beauty,Anna Sewell,Children's Fiction,English,1877,Jarrold & Sons,255,"animals,classic,kindness",3.97,UK,True,None,Children,True,1994
+362,The Jungle Book,Rudyard Kipling,Adventure,English,1894,Macmillan,277,"animals,india,classic",3.94,India,True,None,Children,True,1967
+363,Kim,Rudyard Kipling,Spy Fiction,English,1901,Macmillan,338,"india,espionage,classic",3.75,India,True,None,Adult,True,1950
+364,Sense and Sensibility,Jane Austen,Romance,English,1811,Thomas Egerton,409,"classic,romance,sisters",4.07,UK,True,None,Adult,True,1995
+365,Emma,Jane Austen,Romance,English,1815,John Murray,474,"classic,romance,humor",4.02,UK,True,None,Adult,True,1996
+366,Persuasion,Jane Austen,Romance,English,1817,John Murray,249,"classic,romance,regret",4.14,UK,True,None,Adult,True,2007
+367,Mansfield Park,Jane Austen,Romance,English,1814,Thomas Egerton,460,"classic,romance,morality",3.85,UK,True,None,Adult,True,1999
+368,Northanger Abbey,Jane Austen,Satire,English,1817,John Murray,260,"classic,satire,gothic",3.83,UK,True,None,Adult,True,2007
+369,Tess of the d'Urbervilles,Thomas Hardy,Tragedy,English,1891,James R. Osgood,518,"classic,tragedy,victorian",3.79,UK,True,None,Adult,True,1979
+370,Far from the Madding Crowd,Thomas Hardy,Romance,English,1874,Cornhill Magazine,433,"classic,romance,rural",3.95,UK,True,None,Adult,True,2015
+371,Middlemarch,George Eliot,Realism,English,1871,Blackwood,904,"classic,society,complex",3.99,UK,True,None,Adult,True,1994
+372,Silas Marner,George Eliot,Realism,English,1861,Blackwood,263,"classic,redemption,rural",3.61,UK,True,None,Adult,True,1985
+373,David Copperfield,Charles Dickens,Bildungsroman,English,1850,Bradbury & Evans,619,"classic,autobiographical,london",4.0,UK,True,None,Adult,True,1935
+374,Oliver Twist,Charles Dickens,Social Novel,English,1838,Richard Bentley,608,"classic,poverty,crime",3.87,UK,True,None,Adult,True,1948
+375,Bleak House,Charles Dickens,Satire,English,1853,Bradbury & Evans,1017,"classic,law,mystery",4.0,UK,True,None,Adult,True,2005
+376,A Christmas Carol,Charles Dickens,Fantasy,English,1843,Chapman & Hall,104,"christmas,classic,redemption",4.06,UK,True,None,Children,True,1951
+377,Vanity Fair,William Makepeace Thackeray,Satire,English,1848,Punch,867,"classic,satire,society",3.78,UK,True,None,Adult,True,2004
+378,The Woman in White,Wilkie Collins,Mystery,English,1859,All the Year Round,672,"mystery,classic,gothic",4.0,UK,True,None,Adult,True,1948
+379,The Moonstone,Wilkie Collins,Detective,English,1868,All the Year Round,528,"mystery,detective,classic",3.9,UK,True,None,Adult,True,1934
+380,Carmilla,Sheridan Le Fanu,Gothic Horror,English,1872,The Dark Blue,108,"vampire,gothic,classic",3.84,Ireland,True,None,Adult,True,2014
+381,The Turn of the Screw,Henry James,Gothic Horror,English,1898,Collier's Weekly,121,"ghosts,psychology,classic",3.68,USA,True,None,Adult,True,1961
+382,The Portrait of a Lady,Henry James,Realism,English,1881,Macmillan,656,"classic,freedom,betrayal",3.8,USA,True,None,Adult,True,1996
+383,The Age of Innocence,Edith Wharton,Romance,English,1920,Appleton,293,"classic,new york,society",3.96,USA,True,Pulitzer Prize,Adult,True,1993
+384,The House of Mirth,Edith Wharton,Tragedy,English,1905,Scribner,351,"classic,society,tragedy",3.94,USA,True,None,Adult,True,2000
+385,The Awakening,Kate Chopin,Feminist Fiction,English,1899,H.S. Stone,195,"feminism,classic,classic",3.67,USA,True,None,Adult,False,1998
+386,The Yellow Wallpaper,Charlotte Perkins Gilman,Gothic,English,1892,New England Magazine,64,"feminism,horror,mental health",4.11,USA,True,None,Adult,True,1989
+387,Little House on the Prairie,Laura Ingalls Wilder,Historical Fiction,English,1935,Harper & Brothers,335,"history,family,pioneer",4.19,USA,True,None,Children,True,1974
+388,"Sarah, Plain and Tall",Patricia MacLachlan,Historical Fiction,English,1985,Harper & Row,64,"family,history,love",3.76,USA,True,Newbery Medal,Children,True,1991
+389,"Roll of Thunder, Hear My Cry",Mildred D. Taylor,Historical Fiction,English,1976,Dial,276,"racism,history,family",4.15,USA,True,Newbery Medal,Children,True,1978
+390,Number the Stars,Lois Lowry,Historical Fiction,English,1989,Houghton Mifflin,137,"war,holocaust,courage",4.16,Denmark,True,Newbery Medal,Children,False,1998
+391,Tuck Everlasting,Natalie Babbitt,Fantasy,English,1975,"Farrar, Straus and Giroux",148,"immortality,life,classic",3.87,USA,True,None,Children,True,2002
+392,The Westing Game,Ellen Raskin,Mystery,English,1978,Dutton,182,"mystery,puzzle,humor",4.29,USA,True,Newbery Medal,Children,True,1997
+393,Island of the Blue Dolphins,Scott O'Dell,Adventure,English,1960,Houghton Mifflin,184,"survival,nature,classic",3.84,USA,True,Newbery Medal,Children,True,1964
+394,Deception Point,Dan Brown,Thriller,English,2001,Simon & Schuster,592,"thriller,politics,conspiracy",3.7,US,False,None,Adult,True,2008
+397,Song of Solomon,Toni Morrison,Fiction,English,1977,Knopf,337,"race,family,classic",4.06,USA,True,NBCC Award,Adult,False,1998
+398,The Bluest Eye,Toni Morrison,Fiction,English,1970,"Holt, Rinehart and Winston",206,"race,beauty,tragedy",4.06,USA,True,None,Adult,False,1998
+399,Their Eyes Were Watching God,Zora Neale Hurston,Fiction,English,1937,J.B. Lippincott,231,"feminism,classic,race",4.1,USA,True,None,Adult,True,2005
+400,Invisible Man,Ralph Ellison,Fiction,English,1952,Random House,581,"race,classic,identity",4.2,USA,True,National Book Award,Adult,False,1998
+401,The Divine Comedy,Dante Alighieri,Epic Poetry,Italian,1320,Unknown,798,"classic,religion,poetry,hell",4.07,Italy,True,None,Adult,False,1998
+402,Faust,Johann Wolfgang von Goethe,Play,German,1808,Cotta,503,"classic,drama,philosophy",3.98,Germany,True,None,Adult,True,1926
+403,Paradise Lost,John Milton,Epic Poetry,English,1667,Samuel Simmons,453,"poetry,religion,classic,satan",3.85,UK,True,None,Adult,False,1998
+404,The Canterbury Tales,Geoffrey Chaucer,Classic,English,1400,Unknown,504,"classic,humor,history,poetry",3.5,UK,True,None,Adult,True,1972
+405,Beowulf,Unknown,Epic Poetry,Old English,975,Unknown,213,"mythology,hero,classic",3.45,UK,True,None,Adult,True,2007
+408,Mistborn: The Final Empire,Brandon Sanderson,Fantasy,English,2006,Tor Books,541,"magic,heist,epic",4.46,USA,True,None,Young Adult,False,1998
+409,The Way of Kings,Brandon Sanderson,Fantasy,English,2010,Tor Books,1007,"epic,magic,war",4.65,USA,True,David Gemmell Legend Award,Adult,False,1998
+410,Red Rising,Pierce Brown,Sci-Fi,English,2014,Del Rey,382,"dystopia,mars,revolution",4.25,USA,True,Goodreads Choice Award,Adult,False,1998
+411,Leviathan Wakes,James S.A. Corey,Sci-Fi,English,2011,Orbit,561,"space,mystery,opera",4.26,USA,True,Hugo Nominee,Adult,True,2015
+412,Old Man's War,John Scalzi,Sci-Fi,English,2005,Tor Books,320,"war,space,humor",4.23,USA,True,Hugo Nominee,Adult,False,1998
+413,Star Wars: Heir to the Empire,Timothy Zahn,Sci-Fi,English,1991,Bantam Spectra,416,"star wars,space,action",4.14,USA,True,None,Adult,False,1998
+414,The Green Mile,Stephen King,Magical Realism,English,1996,Signet,436,"prison,supernatural,drama",4.46,USA,True,Bram Stoker Award,Adult,True,1999
+415,Different Seasons,Stephen King,Horror,English,1982,Viking Press,560,"drama,horror,classic",4.37,USA,True,None,Adult,True,1994
+416,The Ocean at the End of the Lane,Neil Gaiman,Fantasy,English,2013,William Morrow,181,"magic,memory,childhood",4.0,UK,True,British Book Award,Adult,False,1998
+417,Murder on the Orient Express,Agatha Christie,Mystery,English,1934,Collins Crime Club,274,"crime,train,classic",4.18,UK,True,None,Adult,True,1974
+418,The Mysterious Affair at Styles,Agatha Christie,Mystery,English,1920,John Lane,160,"crime,detective,classic",3.98,UK,True,None,Adult,True,1990
+419,Dark Places,Gillian Flynn,Thriller,English,2009,Shaye Areheart,349,"mystery,dark,crime",3.94,USA,True,None,Adult,True,2015
+420,Before I Go to Sleep,S.J. Watson,Thriller,English,2011,Doubleday,359,"amnesia,mystery,suspense",3.88,UK,True,None,Adult,True,2014
+421,The Girl Who Played with Fire,Stieg Larsson,Crime,English,2006,Norstedts,503,"hacker,sweden,mystery",4.24,Sweden,True,None,Adult,True,2009
+422,Outlander,Diana Gabaldon,Historical Romance,English,1991,Delacorte,850,"scotland,time travel,romance",4.23,USA,True,RITA Award,Adult,True,2014
+423,Dragonfly in Amber,Diana Gabaldon,Historical Romance,English,1992,Delacorte,743,"history,romance,france",4.33,USA,True,None,Adult,True,2016
+424,A Discovery of Witches,Deborah Harkness,Fantasy,English,2011,Viking,579,"magic,romance,history",3.99,USA,True,None,Adult,True,2018
+425,The Time Traveler's Wife,Audrey Niffenegger,Romance,English,2003,MacAdam/Cage,518,"time travel,love,drama",3.98,USA,True,British Book Award,Adult,True,2009
+426,Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,Historical Fiction,English,1987,Random House,416,"south,friendship,food",4.3,USA,True,None,Adult,True,1991
+427,Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,Fiction,English,1996,HarperCollins,356,"south,mother-daughter,humor",3.85,USA,True,None,Adult,True,2002
+428,Cold Mountain,Charles Frazier,Historical Fiction,English,1997,Atlantic Monthly,449,"civil war,journey,romance",3.85,USA,True,National Book Award,Adult,True,2003
+429,Lonesome Dove,Larry McMurtry,Western,English,1985,Simon & Schuster,858,"western,epic,adventure",4.5,USA,True,Pulitzer Prize,Adult,True,1989
+430,True Grit,Charles Portis,Western,English,1968,Simon & Schuster,215,"western,revenge,classic",4.14,USA,True,None,Adult,True,1969
+431,Catching Fire,Suzanne Collins,Dystopian,English,2009,Scholastic,391,"revolution,survival,action",4.29,USA,True,None,Young Adult,True,2013
+432,Mockingjay,Suzanne Collins,Dystopian,English,2010,Scholastic,390,"war,politics,tragedy",4.06,USA,True,None,Young Adult,True,2014
+433,Harry Potter and the Chamber of Secrets,J.K. Rowling,Fantasy,English,1998,Bloomsbury,251,"magic,mystery,school",4.43,UK,True,None,Children,True,2002
+434,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,Fantasy,English,1999,Bloomsbury,317,"magic,time travel,mystery",4.57,UK,True,Whitbread Book Award,Children,True,2004
+435,Fantastic Beasts and Where to Find Them,J.K. Rowling,Fantasy,English,2001,Bloomsbury,128,"magic,animals,textbook",3.98,UK,True,None,Children,True,2016
+436,The Tales of Beedle the Bard,J.K. Rowling,Fantasy,English,2008,Bloomsbury,109,"magic,fairytale,classic",4.06,UK,True,None,Children,False,1998
+437,China Rich Girlfriend,Kevin Kwan,Satire,English,2015,Doubleday,381,"wealth,asia,fashion",3.92,Singapore,True,None,Adult,False,1998
+438,The Midnight Library,Matt Haig,Fantasy,English,2020,Viking,288,"philosophy,choices,depression",4.02,UK,True,Goodreads Choice Award,Adult,False,1998
+439,Anxious People,Fredrik Backman,Fiction,English,2019,Månpocket,341,"humor,sweden,mystery",4.18,Sweden,True,None,Adult,True,2021
+440,A Gentleman in Moscow,Amor Towles,Historical Fiction,English,2016,Viking,462,"russia,history,charm",4.33,USA,True,None,Adult,True,2024
+441,Rules of Civility,Amor Towles,Historical Fiction,English,2011,Viking,335,"new york,romance,class",4.04,USA,True,None,Adult,False,1998
+442,All the King's Men,Robert Penn Warren,Political Fiction,English,1946,Harcourt,439,"politics,corruption,classic",4.1,USA,True,Pulitzer Prize,Adult,True,1949
+443,Wolf Hall,Hilary Mantel,Historical Fiction,English,2009,Fourth Estate,604,"history,politics,tudors",3.88,UK,True,Booker Prize,Adult,True,2015
+444,Bring Up the Bodies,Hilary Mantel,Historical Fiction,English,2012,Fourth Estate,411,"history,politics,tudors",3.95,UK,True,Booker Prize,Adult,True,2015
+445,The Other Boleyn Girl,Philippa Gregory,Historical Fiction,English,2001,Simon & Schuster,661,"history,romance,tudors",4.06,UK,True,Romantic Novel of the Year,Adult,True,2008
+446,Girl with a Pearl Earring,Tracy Chevalier,Historical Fiction,English,1999,HarperCollins,233,"art,history,romance",3.88,UK,True,None,Adult,True,2003
+447,Snow Flower and the Secret Fan,Lisa See,Historical Fiction,English,2005,Random House,258,"china,friendship,history",4.07,USA,True,None,Adult,True,2011
+448,The Red Tent,Anita Diamant,Historical Fiction,English,1997,St. Martin's Press,321,"religion,women,history",4.18,USA,True,None,Adult,True,2014
+449,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,Historical Fiction,English,2008,The Dial Press,290,"war,letters,romance",4.17,USA,True,None,Adult,True,2018
+450,To All the Boys I've Loved Before,Jenny Han,Romance,English,2014,Simon & Schuster,355,"teen,romance,school",4.15,USA,True,None,Young Adult,True,2018
+451,The Diary of a Young Girl,Anne Frank,Memoir,English,1947,Contact Publishing,283,"war,history,memoir",4.19,Netherlands,True,None,Young Adult,True,1959
+452,The Notebook,Nicholas Sparks,Romance,English,1996,Warner Books,214,"love,tragedy,classic",4.1,USA,True,None,Adult,True,2004
+453,A Walk to Remember,Nicholas Sparks,Romance,English,1999,Warner Books,240,"love,sad,faith",4.18,USA,True,None,Young Adult,True,2002
+454,Dear John,Nicholas Sparks,Romance,English,2006,Warner Books,276,"love,military,letters",4.04,USA,True,None,Adult,True,2010
+455,P.S. I Love You,Cecelia Ahern,Romance,English,2004,Hyperion,496,"love,grief,humor",4.16,Ireland,True,None,Adult,True,2007
+456,"Love, Rosie",Cecelia Ahern,Romance,English,2004,Hyperion,512,"love,friends,letters",4.2,Ireland,True,None,Adult,True,2014
+457,One Day,David Nicholls,Romance,English,2009,Hodder & Stoughton,435,"love,time,friendship",3.8,UK,True,Galaxy National Book Award,Adult,True,2011
+458,Me Talk Pretty One Day,David Sedaris,Humor,English,2000,"Little, Brown",272,"humor,memoir,essays",4.0,USA,True,Thurber Prize,Adult,False,1998
+461,Wonder,R.J. Palacio,Children's Fiction,English,2012,Knopf,315,"kindness,school,family",4.43,USA,True,None,Children,True,2017
+462,The Curious Incident of the Dog in the Night-Time,Mark Haddon,Mystery,English,2003,Jonathan Cape,226,"mystery,autism,unique",3.89,UK,True,Whitbread Book of the Year,Young Adult,True,2012
+463,Extremely Loud & Incredibly Close,Jonathan Safran Foer,Fiction,English,2005,Houghton Mifflin,326,"grief,9/11,family",3.98,USA,True,None,Adult,True,2011
+464,Everything Is Illuminated,Jonathan Safran Foer,Fiction,English,2002,Houghton Mifflin,276,"history,ukraine,humor",3.92,USA,True,Guardian First Book Award,Adult,True,2005
+465,The Corrections,Jonathan Franzen,Fiction,English,2001,"Farrar, Straus & Giroux",568,"family,drama,satire",3.81,USA,True,National Book Award,Adult,True,2025
+466,Freedom,Jonathan Franzen,Fiction,English,2010,"Farrar, Straus & Giroux",562,"politics,family,environment",3.77,USA,True,None,Adult,False,1998
+467,A Visit from the Goon Squad,Jennifer Egan,Fiction,English,2010,Knopf,340,"music,time,postmodern",3.67,USA,True,Pulitzer Prize,Adult,False,1998
+468,The Amazing Adventures of Kavalier & Clay,Michael Chabon,Historical Fiction,English,2000,Random House,639,"comics,history,war",4.19,USA,True,Pulitzer Prize,Adult,False,1998
+469,White Noise,Don DeLillo,Satire,English,1985,Viking,310,"consumerism,death,satire",3.85,USA,True,National Book Award,Adult,True,2022
+470,Underworld,Don DeLillo,Historical Fiction,English,1997,Scribner,827,"history,cold war,baseball",3.93,USA,True,None,Adult,False,1998
+471,The Crying of Lot 49,Thomas Pynchon,Satire,English,1966,Lippincott,152,"conspiracy,postmodern,complex",3.69,USA,True,None,Adult,False,1998
+472,Altered Carbon,Richard K. Morgan,Cyberpunk,English,2002,Gollancz,375,"scifi,noir,future",4.12,UK,True,Philip K. Dick Award,Adult,True,2018
+473,The Forever War,Joe Haldeman,Sci-Fi,English,1974,St. Martin's Press,278,"war,time,classic",4.15,USA,True,"Hugo,Nebula",Adult,False,1998
+474,Redshirts,John Scalzi,Sci-Fi,English,2012,Tor Books,320,"humor,meta,star trek",3.85,USA,True,Hugo Award,Adult,False,1998
+475,Annihilation,Jeff VanderMeer,Sci-Fi,English,2014,FSG Originals,195,"horror,nature,mystery",3.73,USA,True,Nebula Award,Adult,True,2018
+476,Stories of Your Life and Others,Ted Chiang,Sci-Fi,English,2002,Tor,281,"aliens,language,philosophy",4.26,USA,True,Nebula Award,Adult,True,2016
+477,Exhalation,Ted Chiang,Sci-Fi,English,2019,Knopf,352,"ai,time travel,philosophy",4.29,USA,True,Locus Award,Adult,False,1998
+478,Neverwhere,Neil Gaiman,Fantasy,English,1996,BBC Books,370,"magic,london,adventure",4.17,UK,True,None,Adult,True,1996
+479,Anansi Boys,Neil Gaiman,Fantasy,English,2005,William Morrow,336,"mythology,humor,magic",4.03,UK,True,None,Adult,True,2023
+480,Small Gods,Terry Pratchett,Fantasy,English,1992,Gollancz,400,"religion,satire,discworld",4.29,UK,True,None,Adult,False,1998
+481,Mort,Terry Pratchett,Fantasy,English,1987,Gollancz,243,"death,humor,discworld",4.23,UK,True,None,Adult,False,1998
+482,Guards! Guards!,Terry Pratchett,Fantasy,English,1989,Gollancz,376,"dragons,police,humor",4.35,UK,True,None,Adult,False,1998
+483,Going Postal,Terry Pratchett,Fantasy,English,2004,Doubleday,394,"humor,satire,discworld",4.39,UK,True,Nebula Nominee,Adult,True,2010
+484,The Restaurant at the End of the Universe,Douglas Adams,Sci-Fi,English,1980,Pan Books,250,"humor,space,satire",4.21,UK,True,None,Adult,True,1981
+485,"The Long Way to a Small, Angry Planet",Becky Chambers,Sci-Fi,English,2014,Self-published,404,"space,lgbt,friendship",4.16,USA,True,None,Adult,False,1998
+486,Gideon the Ninth,Tamsyn Muir,Sci-Fi,English,2019,Tor.com,448,"necromancy,mystery,scifi",4.17,New Zealand,True,Locus Award,Adult,False,1998
+487,The Fifth Season,N.K. Jemisin,Fantasy,English,2015,Orbit,468,"magic,earth,dystopia",4.29,USA,True,Hugo Award,Adult,False,1998
+488,The Obelisk Gate,N.K. Jemisin,Fantasy,English,2016,Orbit,410,"magic,earth,sequel",4.32,USA,True,Hugo Award,Adult,False,1998
+489,The Stone Sky,N.K. Jemisin,Fantasy,English,2017,Orbit,464,"magic,earth,finale",4.38,USA,True,"Hugo,Nebula",Adult,False,1998
+490,Children of Time,Adrian Tchaikovsky,Sci-Fi,English,2015,Tor,600,"evolution,space,spiders",4.27,UK,True,Arthur C. Clarke Award,Adult,False,1998
+491,Recursion,Blake Crouch,Sci-Fi,English,2019,Crown,329,"memory,thriller,time",4.16,USA,True,Goodreads Choice Award,Adult,False,1998
+492,Wool,Hugh Howey,Dystopian,English,2011,Broad Reach,509,"post-apocalyptic,mystery,silo",4.22,USA,True,None,Adult,True,2023
+493,Shift,Hugh Howey,Dystopian,English,2013,Broad Reach,579,"prequel,silo,scifi",4.07,USA,True,None,Adult,False,1998
+494,Dust,Hugh Howey,Dystopian,English,2013,Broad Reach,458,"finale,silo,scifi",4.13,USA,True,None,Adult,False,1998
+495,Hidden Figures,Margot Lee Shetterly,Non-fiction,English,2016,William Morrow,368,"history,space,race",4.26,USA,True,None,Adult,True,2016
+496,Killers of the Flower Moon,David Grann,History,English,2017,Doubleday,359,"crime,history,native american",4.1,USA,True,Edgar Award,Adult,True,2023
+497,Devil in the White City,Erik Larson,History,English,2003,Crown,447,"crime,history,architecture",3.99,USA,True,Edgar Award,Adult,True,2024
+498,The Boys in the Boat,Daniel James Brown,History,English,2013,Viking,404,"sports,history,olympics",4.34,USA,True,None,Adult,True,2023
+499,Shoe Dog,Phil Knight,Memoir,English,2016,Scribner,400,"business,memoir,sports",4.47,USA,True,None,Adult,False,1998
+500,Kitchen Confidential,Anthony Bourdain,Memoir,English,2000,Bloomsbury,312,"food,chef,memoir",4.08,USA,True,None,Adult,False,1998
+501,Six of Crows,Leigh Bardugo,Fantasy,English,2015,Henry Holt,465,"magic,heist,young adult",4.49,USA,True,None,Young Adult,False,1998
+502,Shadow and Bone,Leigh Bardugo,Fantasy,English,2012,Henry Holt,358,"magic,russia,romance",3.9,USA,True,None,Young Adult,True,2021
+503,The Cruel Prince,Holly Black,Fantasy,English,2018,"Little, Brown",370,"fae,politics,enemies to lovers",4.06,USA,True,Goodreads Choice Nominee,Young Adult,False,1998
+504,Cinder,Marissa Meyer,Sci-Fi,English,2012,Feiwel & Friends,390,"retelling,cyborg,cinderella",4.15,USA,True,None,Young Adult,False,1998
+505,The Invisible Life of Addie LaRue,V.E. Schwab,Fantasy,English,2020,Tor Books,444,"magic,history,romance",4.19,USA,True,Locus Nominee,Adult,False,1998
+506,A Darker Shade of Magic,V.E. Schwab,Fantasy,English,2015,Tor Books,400,"magic,london,adventure",4.05,USA,True,None,Adult,False,1998
+507,The Haunting of Hill House,Shirley Jackson,Horror,English,1959,Viking,182,"ghosts,psychology,classic",3.83,USA,True,National Book Award Nominee,Adult,True,1963
+508,We Have Always Lived in the Castle,Shirley Jackson,Gothic,English,1962,Viking,146,"mystery,classic,dark",3.99,USA,True,None,Adult,True,2018
+509,Bird Box,Josh Malerman,Horror,English,2014,Ecco,262,"apocalypse,thriller,survival",4.01,USA,True,Bram Stoker Award Nominee,Adult,True,2018
+510,World War Z,Max Brooks,Horror,English,2006,Crown,342,"zombies,war,politics",4.01,USA,True,None,Adult,True,2013
+511,1Q84,Haruki Murakami,Magical Realism,Japanese,2009,Shinchosha,925,"japan,surreal,dystopia",3.92,Japan,True,Goodreads Choice Nominee,Adult,False,1998
+512,The Wind-Up Bird Chronicle,Haruki Murakami,Magical Realism,Japanese,1994,Shinchosha,607,"japan,mystery,surreal",4.17,Japan,True,Yomiuri Prize,Adult,False,1998
+513,Battle Royale,Koushun Takami,Thriller,Japanese,1999,Ohta,617,"dystopia,violence,japan",4.23,Japan,True,None,Adult,True,2000
+514,The Vegetarian,Han Kang,Fiction,Korean,2007,Changbi,188,"korea,surreal,dark",3.63,South Korea,True,Man Booker International,Adult,True,2009
+515,"Kim Jiyoung, Born 1982",Cho Nam-Joo,Fiction,Korean,2016,Minumsa,163,"feminism,korea,society",3.77,South Korea,True,None,Adult,True,2019
+516,Before the Coffee Gets Cold,Toshikazu Kawaguchi,Magical Realism,Japanese,2015,Sunmark,213,"time travel,japan,heartwarming",3.67,Japan,True,None,Adult,True,2018
+517,Convenience Store Woman,Sayaka Murata,Fiction,Japanese,2016,Bungeishunju,163,"japan,society,humor",3.73,Japan,True,Akutagawa Prize,Adult,False,1998
+518,A Little Life,Hanya Yanagihara,Drama,English,2015,Doubleday,720,"trauma,friendship,sad",4.31,USA,True,Booker Prize Shortlist,Adult,False,1998
+519,My Year of Rest and Relaxation,Ottessa Moshfegh,Satire,English,2018,Penguin,289,"depression,satire,new york",3.67,USA,True,None,Adult,False,1998
+520,The Phantom of the Opera,Gaston Leroux,Gothic,French,1910,Pierre Lafitte,192,"classic,romance,horror",3.96,France,True,None,Adult,True,2004
+521,The Plague,Albert Camus,Philosophy,French,1947,Gallimard,308,"existentialism,disease,classic",3.99,France,True,None,Adult,True,1992
+522,All Quiet on the Western Front,Erich Maria Remarque,War,German,1929,Propyläen,296,"war,classic,tragedy",3.96,Germany,True,None,Adult,True,1930
+523,A Fine Balance,Rohinton Mistry,Historical Fiction,English,1995,McClelland and Stewart,603,"india,history,tragedy",4.37,Canada,True,Giller Prize,Adult,False,1998
+524,The Namesake,Jhumpa Lahiri,Fiction,English,2003,Houghton Mifflin,291,"identity,family,immigration",3.98,USA,True,None,Adult,True,2006
+525,And the Mountains Echoed,Khaled Hosseini,Fiction,English,2013,Riverhead,404,"family,afghanistan,connection",4.04,USA,True,Goodreads Choice Award,Adult,False,1998
+526,Reading Lolita in Tehran,Azar Nafisi,Memoir,English,2003,Random House,356,"memoir,books,iran",3.77,Iran,True,None,Adult,False,1998
+527,Mrs. Dalloway,Virginia Woolf,Modernist,English,1925,Hogarth Press,194,"classic,stream of consciousness,london",3.8,UK,True,None,Adult,True,1997
+528,To the Lighthouse,Virginia Woolf,Modernist,English,1927,Hogarth Press,209,"classic,time,family",3.78,UK,True,None,Adult,True,1983
+529,A Room of One's Own,Virginia Woolf,Feminist Non-fiction,English,1929,Hogarth Press,112,"feminism,classic,essays",4.16,UK,True,None,Adult,False,1998
+530,On the Road,Jack Kerouac,Beat,English,1957,Viking Press,307,"travel,beat generation,classic",3.62,USA,True,None,Adult,True,2012
+531,Giovanni's Room,James Baldwin,Fiction,English,1956,Dial Press,169,"lgbt,classic,paris",4.32,USA,True,None,Adult,False,1998
+532,Call Me by Your Name,André Aciman,Romance,English,2007,"Farrar, Straus and Giroux",248,"lgbt,romance,italy",4.13,USA,True,Lambda Literary Award,Adult,True,2017
+533,Less,Andrew Sean Greer,Satire,English,2017,Lee Boudreaux,261,"humor,travel,lgbt",3.76,USA,True,Pulitzer Prize,Adult,False,1998
+534,The Sympathizer,Viet Thanh Nguyen,Historical Fiction,English,2015,Grove Press,371,"war,spy,vietnam",3.97,USA,True,Pulitzer Prize,Adult,True,2024
+535,The Overstory,Richard Powers,Fiction,English,2018,W. W. Norton,502,"nature,trees,epic",4.13,USA,True,Pulitzer Prize,Adult,False,1998
+536,Trust,Hernan Diaz,Historical Fiction,English,2022,Riverhead,402,"money,history,mystery",3.91,USA,True,Pulitzer Prize,Adult,False,1998
+537,Demon Copperhead,Barbara Kingsolver,Fiction,English,2022,Harper,546,"poverty,addiction,coming-of-age",4.53,USA,True,Pulitzer Prize,Adult,False,1998
+538,The Poisonwood Bible,Barbara Kingsolver,Historical Fiction,English,1998,HarperFlamingo,546,"africa,religion,family",4.07,USA,True,Book Sense Book of the Year,Adult,False,1998
+539,Cloud Cuckoo Land,Anthony Doerr,Sci-Fi,English,2021,Scribner,626,"books,history,time",4.29,USA,True,None,Adult,False,1998
+540,Hamnet,Maggie O'Farrell,Historical Fiction,English,2020,Tinder Press,372,"history,grief,family",4.22,UK,True,Women's Prize for Fiction,Adult,False,1998
+541,Lincoln in the Bardo,George Saunders,Historical Fiction,English,2017,Random House,343,"ghosts,history,experimental",3.73,USA,True,Booker Prize,Adult,False,1998
+542,The Underground Railroad,Colson Whitehead,Historical Fiction,English,2016,Doubleday,306,"history,slavery,surreal",4.03,USA,True,"Pulitzer Prize,National Book Award",Adult,True,2021
+543,The Nickel Boys,Colson Whitehead,Historical Fiction,English,2019,Doubleday,213,"history,racism,tragedy",4.07,USA,True,Pulitzer Prize,Adult,False,1998
+544,Gilead,Marilynne Robinson,Fiction,English,2004,"Farrar, Straus and Giroux",247,"religion,family,classic",3.85,USA,True,Pulitzer Prize,Adult,False,1998
+545,Olive Kitteridge,Elizabeth Strout,Fiction,English,2008,Random House,270,"drama,short stories,maine",3.81,USA,True,Pulitzer Prize,Adult,True,2014
+546,The Husband's Secret,Liane Moriarty,Mystery,English,2013,Pan Macmillan,396,"secrets,mystery,australia",3.94,Australia,True,None,Adult,False,1998
+547,The Guest List,Lucy Foley,Thriller,English,2020,William Morrow,313,"mystery,island,crime",3.83,UK,True,Goodreads Choice Award,Adult,False,1998
+548,In the Woods,Tana French,Mystery,English,2007,Viking,429,"crime,ireland,detective",3.77,Ireland,True,Edgar Award,Adult,True,2019
+549,The Thirteenth Tale,Diane Setterfield,Gothic,English,2006,Orion,406,"mystery,gothic,books",4.05,UK,True,None,Adult,True,2013
+550,My Cousin Rachel,Daphne du Maurier,Mystery,English,1951,Gollancz,352,"mystery,romance,classic",3.94,UK,True,None,Adult,True,2017
+551,The Firm,John Grisham,Thriller,English,1991,Doubleday,421,"legal,thriller,crime",3.95,USA,True,None,Adult,True,1993
+552,A Time to Kill,John Grisham,Thriller,English,1989,Wynwood Press,515,"legal,crime,south",4.06,USA,True,None,Adult,True,1996
+553,The Pelican Brief,John Grisham,Thriller,English,1992,Doubleday,371,"legal,conspiracy,suspense",3.92,USA,True,None,Adult,True,1993
+554,Killing Floor,Lee Child,Thriller,English,1997,Putnam,524,"action,mystery,crime",4.06,USA,True,Anthony Award,Adult,True,2022
+555,Red Dragon,Thomas Harris,Thriller,English,1981,Putnam,348,"horror,crime,psychology",4.24,USA,True,None,Adult,True,2002
+556,Hannibal,Thomas Harris,Thriller,English,1999,Delacorte,484,"horror,crime,cannibalism",3.73,USA,True,None,Adult,True,2001
+557,The Talented Mr. Ripley,Patricia Highsmith,Thriller,English,1955,Coward-McCann,288,"crime,psychology,italy",3.96,USA,True,Edgar Award Nominee,Adult,True,1999
+558,Strangers on a Train,Patricia Highsmith,Thriller,English,1950,Harper & Brothers,256,"crime,noir,suspense",3.94,USA,True,None,Adult,True,1951
+559,The Postman Always Rings Twice,James M. Cain,Crime,English,1934,Knopf,116,"noir,crime,classic",3.9,USA,True,None,Adult,True,1981
+560,Double Indemnity,James M. Cain,Crime,English,1943,Knopf,115,"noir,crime,classic",4.11,USA,True,None,Adult,True,1944
+561,L.A. Confidential,James Ellroy,Crime,English,1990,Mysterious Press,496,"noir,police,corruption",4.28,USA,True,None,Adult,True,1997
+562,The Black Dahlia,James Ellroy,Crime,English,1987,Mysterious Press,348,"noir,history,murder",3.92,USA,True,None,Adult,True,2006
+563,The Exorcist,William Peter Blatty,Horror,English,1971,Harper & Row,385,"horror,demon,classic",4.18,USA,True,None,Adult,True,1973
+564,Rosemary's Baby,Ira Levin,Horror,English,1967,Random House,308,"horror,cult,nyc",4.09,USA,True,None,Adult,True,1968
+565,The Stepford Wives,Ira Levin,Satire,English,1972,Random House,144,"horror,satire,feminism",3.77,USA,True,None,Adult,True,2004
+566,Psycho,Robert Bloch,Horror,English,1959,Simon & Schuster,176,"horror,thriller,classic",4.15,USA,True,None,Adult,True,1960
+567,Jaws,Peter Benchley,Thriller,English,1974,Doubleday,320,"horror,shark,summer",3.96,USA,True,None,Adult,True,1975
+568,Assassin's Apprentice,Robin Hobb,Fantasy,English,1995,Bantam Spectra,435,"magic,epic,growing up",4.16,USA,True,None,Adult,False,1998
+569,Royal Assassin,Robin Hobb,Fantasy,English,1996,Bantam Spectra,675,"magic,intrigue,epic",4.23,USA,True,None,Adult,False,1998
+570,The Blade Itself,Joe Abercrombie,Fantasy,English,2006,Gollancz,515,"grimdark,war,character",4.16,UK,True,None,Adult,False,1998
+571,Before They Are Hanged,Joe Abercrombie,Fantasy,English,2007,Gollancz,539,"grimdark,epic,war",4.24,UK,True,None,Adult,False,1998
+572,The Lies of Locke Lamora,Scott Lynch,Fantasy,English,2006,Gollancz,499,"heist,magic,humor",4.3,USA,True,None,Adult,False,1998
+573,The Black Company,Glen Cook,Fantasy,English,1984,Tor Books,319,"grimdark,war,classic",3.98,USA,True,None,Adult,False,1998
+574,Gardens of the Moon,Steven Erikson,Fantasy,English,1999,Bantam,712,"epic,complex,war",3.88,Canada,True,None,Adult,False,1998
+575,The Poppy War,R.F. Kuang,Fantasy,English,2018,Harper Voyager,530,"war,magic,grimdark",4.06,China,True,Crawford Award,Adult,False,1998
+576,Babel,R.F. Kuang,Fantasy,English,2022,Harper Voyager,544,"dark academia,magic,history",4.18,UK,True,Nebula Award,Adult,False,1998
+577,Yellowface,R.F. Kuang,Satire,English,2023,William Morrow,336,"publishing,satire,thriller",3.85,USA,True,Goodreads Choice Award,Adult,False,1998
+578,"Tomorrow, and Tomorrow, and Tomorrow",Gabrielle Zevin,Fiction,English,2022,Knopf,401,"gaming,friendship,love",4.19,USA,True,Goodreads Choice Award,Adult,False,1998
+579,Bunny,Mona Awad,Horror,English,2019,Viking,304,"dark academia,surreal,horror",3.6,USA,True,Goodreads Choice Nominee,Adult,False,1998
+580,Mexican Gothic,Silvia Moreno-Garcia,Horror,English,2020,Del Rey,301,"gothic,horror,mexico",3.65,Mexico,True,Locus Award,Adult,False,1998
+581,The House in the Cerulean Sea,TJ Klune,Fantasy,English,2020,Tor,394,"magic,wholesome,lgbt",4.45,USA,True,Alex Award,Adult,False,1998
+582,Sea of Tranquility,Emily St. John Mandel,Sci-Fi,English,2022,Knopf,255,"time travel,pandemic,scifi",4.16,Canada,True,Goodreads Choice Award,Adult,False,1998
+583,Piranesi,Susanna Clarke,Fantasy,English,2020,Bloomsbury,245,"mystery,magic,philosophy",4.23,UK,True,Women's Prize for Fiction,Adult,False,1998
+584,Jonathan Strange & Mr Norrell,Susanna Clarke,Fantasy,English,2004,Bloomsbury,782,"magic,history,classic style",3.83,UK,True,Hugo Award,Adult,True,2015
+585,Klara and the Sun,Kazuo Ishiguro,Sci-Fi,English,2021,Faber & Faber,303,"ai,philosophy,future",3.74,UK,True,Booker Prize Longlist,Adult,False,1998
+586,The Buried Giant,Kazuo Ishiguro,Fantasy,English,2015,Faber & Faber,317,"memory,fantasy,arthurian",3.53,UK,True,None,Adult,False,1998
+587,Saturday,Ian McEwan,Fiction,English,2005,Jonathan Cape,289,"london,realism,post-9/11",3.54,UK,True,James Tait Black Prize,Adult,False,1998
+588,The English Patient,Michael Ondaatje,Historical Fiction,English,1992,McClelland and Stewart,320,"war,romance,history",3.85,Canada,True,Booker Prize,Adult,True,1996
+589,Possession,A.S. Byatt,Romance,English,1990,Chatto & Windus,555,"mystery,romance,literary",3.83,UK,True,Booker Prize,Adult,True,2002
+590,The Satanic Verses,Salman Rushdie,Magical Realism,English,1988,Viking,561,"religion,controversial,surreal",3.67,UK,True,Whitbread Award,Adult,False,1998
+591,The Lost Symbol,Dan Brown,Thriller,English,2009,Doubleday,509,"mystery,history,freemasons",3.74,USA,True,None,Adult,True,2021
+592,Ghostwritten,David Mitchell,Fiction,English,1999,Sceptre,426,"travel,connection,complex",4.06,UK,True,John Llewellyn Rhys Prize,Adult,False,1998
+593,The Bone Clocks,David Mitchell,Fantasy,English,2014,Sceptre,624,"fantasy,time,complex",3.82,UK,True,World Fantasy Award,Adult,False,1998
+594,Black Swan Green,David Mitchell,Coming-of-age,English,2006,Sceptre,294,"growing up,80s,semi-autobiographical",4.03,UK,True,None,Adult,False,1998
+595,House of Leaves,Mark Z. Danielewski,Horror,English,2000,Pantheon,709,"horror,experimental,complex",4.08,USA,True,None,Adult,False,1998
+596,Brief Interviews with Hideous Men,David Foster Wallace,Short Stories,English,1999,"Little, Brown",273,"psychology,dark,experimental",3.89,USA,True,None,Adult,True,2009
+597,A Confederacy of Dunces,John Kennedy Toole,Satire,English,1980,LSU Press,394,"humor,classic,picaresque",3.88,USA,True,Pulitzer Prize,Adult,False,1998
+598,The Heart is a Lonely Hunter,Carson McCullers,Southern Gothic,English,1940,Houghton Mifflin,359,"loneliness,classic,south",4.04,USA,True,None,Adult,True,1968
+599,Wise Blood,Flannery O'Connor,Southern Gothic,English,1952,Harcourt,236,"religion,satire,south",4.03,USA,True,None,Adult,True,1979
+600,Trigger Warning,Neil Gaiman,Short Stories,English,2015,William Morrow,310,"horror,fantasy,anthology",3.96,UK,True,Locus Award,Adult,False,1998
+601,Harry Potter and the Goblet of Fire,J.K. Rowling,Fantasy,English,2000,Bloomsbury,636,"magic,school,tournament",4.56,UK,True,Hugo Award,Children,True,2005
+602,Harry Potter and the Order of the Phoenix,J.K. Rowling,Fantasy,English,2003,Bloomsbury,766,"magic,rebellion,politics",4.5,UK,True,None,Children,True,2007
+603,Harry Potter and the Half-Blood Prince,J.K. Rowling,Fantasy,English,2005,Bloomsbury,607,"magic,history,romance",4.57,UK,True,British Book Award,Children,True,2009
+604,Harry Potter and the Deathly Hallows,J.K. Rowling,Fantasy,English,2007,Bloomsbury,607,"magic,war,finale",4.62,UK,True,None,Children,True,2010
+605,A Clash of Kings,George R.R. Martin,Fantasy,English,1998,Bantam Spectra,768,"epic,war,politics",4.41,USA,True,Locus Award,Adult,True,2012
+606,A Storm of Swords,George R.R. Martin,Fantasy,English,2000,Bantam Spectra,973,"epic,war,tragedy",4.54,USA,True,Locus Award,Adult,True,2013
+607,A Feast for Crows,George R.R. Martin,Fantasy,English,2005,Bantam Spectra,753,"epic,politics,dark",4.14,USA,True,None,Adult,True,2015
+608,A Dance with Dragons,George R.R. Martin,Fantasy,English,2011,Bantam Spectra,1016,"epic,dragons,winter",4.32,USA,True,Locus Award,Adult,True,2015
+609,The Eye of the World,Robert Jordan,Fantasy,English,1990,Tor Books,814,"epic,magic,journey",4.18,USA,True,None,Adult,True,2021
+610,The Great Hunt,Robert Jordan,Fantasy,English,1990,Tor Books,705,"epic,adventure,magic",4.22,USA,True,None,Adult,True,2021
+611,The Dragon Reborn,Robert Jordan,Fantasy,English,1991,Tor Books,624,"epic,destiny,magic",4.25,USA,True,None,Adult,True,2021
+612,Casino Royale,Ian Fleming,Spy Fiction,English,1953,Jonathan Cape,213,"spy,bond,gambling",3.76,UK,True,None,Adult,True,2006
+613,Live and Let Die,Ian Fleming,Spy Fiction,English,1954,Jonathan Cape,221,"spy,crime,vodou",3.67,UK,True,None,Adult,True,1973
+614,Moonraker,Ian Fleming,Spy Fiction,English,1955,Jonathan Cape,247,"spy,rocket,london",3.74,UK,True,None,Adult,True,1979
+615,Goldfinger,Ian Fleming,Spy Fiction,English,1959,Jonathan Cape,318,"spy,gold,villain",3.83,UK,True,None,Adult,True,1964
+616,Tinker Tailor Soldier Spy,John le Carré,Spy Fiction,English,1974,Hodder & Stoughton,381,"spy,cold war,mystery",4.06,UK,True,None,Adult,True,2011
+617,The Spy Who Came in from the Cold,John le Carré,Spy Fiction,English,1963,Victor Gollancz,224,"spy,cold war,tragedy",4.08,UK,True,Edgar Award,Adult,True,1965
+618,Smiley's People,John le Carré,Spy Fiction,English,1979,Hodder & Stoughton,395,"spy,cold war,finale",4.06,UK,True,None,Adult,True,1982
+619,The Day of the Jackal,Frederick Forsyth,Thriller,English,1971,Hutchinson,358,"assassin,suspense,history",4.24,UK,True,Edgar Award,Adult,True,1973
+620,The Bourne Identity,Robert Ludlum,Thriller,English,1980,Richard Marek,566,"spy,action,amnesia",4.03,USA,True,None,Adult,True,2002
+621,The Bourne Supremacy,Robert Ludlum,Thriller,English,1986,Random House,646,"spy,action,asia",3.95,USA,True,None,Adult,True,2004
+622,The Hunt for Red October,Tom Clancy,Techno-thriller,English,1984,Naval Institute Press,387,"military,submarine,cold war",4.09,USA,True,None,Adult,True,1990
+623,Patriot Games,Tom Clancy,Techno-thriller,English,1987,Putnam,503,"terrorism,spy,action",4.05,USA,True,None,Adult,True,1992
+624,Shōgun,James Clavell,Historical Fiction,English,1975,Hodder & Stoughton,1152,"japan,history,epic",4.39,UK,True,None,Adult,True,1980
+625,Tai-Pan,James Clavell,Historical Fiction,English,1966,Atheneum,734,"history,hong kong,business",4.23,UK,True,None,Adult,True,1986
+626,King Rat,James Clavell,Historical Fiction,English,1962,"Little, Brown",352,"war,survival,prison",4.07,UK,True,None,Adult,True,1965
+627,Sphere,Michael Crichton,Sci-Fi,English,1987,Knopf,371,"ocean,aliens,psychology",3.8,USA,True,None,Adult,True,1998
+628,The Andromeda Strain,Michael Crichton,Sci-Fi,English,1969,Knopf,327,"science,virus,thriller",3.89,USA,True,None,Adult,True,1971
+629,Congo,Michael Crichton,Adventure,English,1980,Knopf,480,"jungle,technology,apes",3.61,USA,True,None,Adult,True,1995
+630,Timeline,Michael Crichton,Sci-Fi,English,1999,Knopf,496,"time travel,history,knights",3.85,USA,True,None,Adult,True,2003
+631,The Martian Chronicles,Ray Bradbury,Sci-Fi,English,1950,Doubleday,222,"mars,space,short stories",4.13,USA,True,None,Adult,True,1980
+632,The Illustrated Man,Ray Bradbury,Sci-Fi,English,1951,Doubleday,275,"scifi,tattoos,short stories",4.12,USA,True,None,Adult,True,1969
+633,Something Wicked This Way Comes,Ray Bradbury,Fantasy,English,1962,Simon & Schuster,293,"horror,carnival,classic",3.94,USA,True,None,Young Adult,True,1983
+634,I Am Legend,Richard Matheson,Horror,English,1954,Gold Medal Books,160,"vampires,isolation,scifi",4.0,USA,True,None,Adult,True,2007
+635,What Dreams May Come,Richard Matheson,Fantasy,English,1978,Putnam,288,"afterlife,love,fantasy",4.11,USA,True,None,Adult,True,1998
+636,Contact,Carl Sagan,Sci-Fi,English,1985,Simon & Schuster,432,"aliens,science,religion",4.13,USA,True,Locus Award,Adult,True,1997
+637,World Without End,Ken Follett,Historical Fiction,English,2007,Dutton,1014,"history,architecture,plague",4.26,UK,True,None,Adult,True,2012
+638,The Bad Beginning,Lemony Snicket,Children's Fiction,English,1999,HarperCollins,162,"humor,gothic,kids",3.94,USA,True,None,Children,True,2004
+639,The Reptile Room,Lemony Snicket,Children's Fiction,English,1999,HarperCollins,190,"humor,gothic,kids",3.98,USA,True,None,Children,True,2004
+640,Sideways Stories from Wayside School,Louis Sachar,Children's Fiction,English,1978,Follett,128,"humor,school,absurd",4.16,USA,True,None,Children,True,2005
+641,The Jungle,Upton Sinclair,Political Fiction,English,1906,Doubleday,375,"history,politics,poverty",3.75,USA,True,None,Adult,False,1998
+642,A Farewell to Arms,Ernest Hemingway,War,English,1929,Scribner,293,"war,romance,tragedy",3.8,USA,True,None,Adult,True,1932
+643,Main Street,Sinclair Lewis,Satire,English,1920,Harcourt,451,"classic,satire,society",3.74,USA,True,None,Adult,False,1998
+644,The Duke and I,Julia Quinn,Romance,English,2000,Avon,384,"romance,regency,family",3.84,USA,True,None,Adult,True,2020
+645,The Viscount Who Loved Me,Julia Quinn,Romance,English,2000,Avon,378,"romance,regency,enemies to lovers",4.04,USA,True,None,Adult,True,2022
+646,The Thorn Birds,Colleen McCullough,Historical Fiction,English,1977,Harper & Row,692,"australia,romance,epic",4.23,Australia,True,None,Adult,True,1983
+647,Streets of Laredo,Larry McMurtry,Western,English,1993,Simon & Schuster,589,"western,adventure,sequel",4.08,USA,True,None,Adult,True,1995
+648,Empire of the Sun,J.G. Ballard,War,English,1984,Gollancz,279,"war,survival,semi-autobiographical",3.91,UK,True,James Tait Black Prize,Adult,True,1987
+649,Crash,J.G. Ballard,Transgressive,English,1973,Jonathan Cape,224,"psychology,dark,controversial",3.32,UK,True,None,Adult,True,1996
+650,High Rise,J.G. Ballard,Dystopian,English,1975,Jonathan Cape,208,"dystopia,society,class",3.68,UK,True,None,Adult,True,2015
+651,The Wise Man's Fear,Patrick Rothfuss,Fantasy,English,2011,DAW Books,994,"magic,adventure,sequel",4.55,USA,True,None,Adult,False,1998
+652,The Slow Regard of Silent Things,Patrick Rothfuss,Fantasy,English,2014,DAW Books,159,"magic,lyrical,novella",4.16,USA,True,None,Adult,False,1998
+653,The Dark Forest,Cixin Liu,Sci-Fi,English,2008,Chongqing Press,512,"aliens,strategy,philosophy",4.4,China,True,None,Adult,False,1998
+654,Death's End,Cixin Liu,Sci-Fi,English,2010,Chongqing Press,604,"aliens,time,universe",4.46,China,True,Locus Award,Adult,False,1998
+655,Speaker for the Dead,Orson Scott Card,Sci-Fi,English,1986,Tor Books,415,"aliens,philosophy,sequel",4.06,USA,True,"Hugo,Nebula",Adult,False,1998
+656,Xenocide,Orson Scott Card,Sci-Fi,English,1991,Tor Books,592,"aliens,virus,philosophy",3.76,USA,True,None,Adult,False,1998
+657,The Gunslinger,Stephen King,Fantasy,English,1982,Grant,224,"western,fantasy,epic",3.93,USA,True,None,Adult,True,2017
+658,The Drawing of the Three,Stephen King,Fantasy,English,1987,Grant,400,"fantasy,time travel,epic",4.22,USA,True,None,Adult,False,1998
+659,The Waste Lands,Stephen King,Fantasy,English,1991,Grant,512,"fantasy,epic,train",4.25,USA,True,None,Adult,False,1998
+660,Doctor Sleep,Stephen King,Horror,English,2013,Scribner,531,"horror,powers,recovery",4.09,USA,True,Bram Stoker Award,Adult,True,2019
+662,Time of Contempt,Andrzej Sapkowski,Fantasy,English,1995,SuperNOWA,331,"magic,war,witcher",4.25,Poland,True,None,Adult,True,2019
+663,Baptism of Fire,Andrzej Sapkowski,Fantasy,English,1996,SuperNOWA,343,"magic,adventure,witcher",4.32,Poland,True,None,Adult,True,2019
+664,The Tower of the Swallow,Andrzej Sapkowski,Fantasy,English,1997,SuperNOWA,436,"magic,dark,witcher",4.34,Poland,True,None,Adult,True,2019
+665,Lady of the Lake,Andrzej Sapkowski,Fantasy,English,1999,SuperNOWA,531,"magic,finale,witcher",4.29,Poland,True,None,Adult,True,2019
+666,"Sandman, Vol. 1: Preludes & Nocturnes",Neil Gaiman,Graphic Novel,English,1989,DC Comics,240,"fantasy,comics,mythology",4.23,USA,True,None,Adult,True,2022
+667,"Sandman, Vol. 2: The Doll's House",Neil Gaiman,Graphic Novel,English,1990,DC Comics,232,"fantasy,comics,serial killer",4.4,USA,True,None,Adult,True,2022
+668,Fun Home: A Family Tragicomic,Alison Bechdel,Graphic Memoir,English,2006,Houghton Mifflin,232,"memoir,lgbt,comics",4.08,USA,True,Eisner Award,Adult,True,2013
+669,Persepolis 2: The Story of a Return,Marjane Satrapi,Memoir,English,2004,L'Association,187,"memoir,iran,comics",4.36,France,True,None,Adult,True,2007
+670,The Hate U Give,Angie Thomas,Young Adult,English,2017,Balzer + Bray,444,"racism,activism,family",4.49,USA,True,Goodreads Choice Award,Young Adult,True,2018
+671,Looking for Alaska,John Green,Young Adult,English,2005,Dutton,221,"teen,romance,tragedy",3.99,USA,True,Printz Award,Young Adult,True,2019
+672,Paper Towns,John Green,Young Adult,English,2008,Dutton,305,"mystery,road trip,teen",3.86,USA,True,Edgar Award,Young Adult,True,2015
+673,Thirteen Reasons Why,Jay Asher,Young Adult,English,2007,RazorBill,288,"suicide,mystery,teen",3.92,USA,True,None,Young Adult,True,2017
+674,Miss Peregrine's Home for Peculiar Children,Ransom Riggs,Fantasy,English,2011,Quirk Books,352,"photos,mystery,magic",3.9,USA,True,None,Young Adult,True,2016
+675,Hollow City,Ransom Riggs,Fantasy,English,2014,Quirk Books,400,"photos,sequel,magic",4.05,USA,True,None,Young Adult,False,1998
+676,The Scorch Trials,James Dashner,Sci-Fi,English,2010,Delacorte,361,"dystopia,survival,action",3.9,USA,True,None,Young Adult,True,2015
+677,The Death Cure,James Dashner,Sci-Fi,English,2011,Delacorte,324,"dystopia,finale,action",3.8,USA,True,None,Young Adult,True,2018
+678,Insurgent,Veronica Roth,Dystopian,English,2012,Katherine Tegen,525,"action,romance,war",4.02,USA,True,Goodreads Choice Award,Young Adult,True,2015
+679,Allegiant,Veronica Roth,Dystopian,English,2013,Katherine Tegen,526,"finale,twist,scifi",3.6,USA,True,Goodreads Choice Award,Young Adult,True,2016
+680,New Moon,Stephenie Meyer,Romance,English,2006,"Little, Brown",563,"vampires,werewolves,romance",3.55,USA,True,None,Young Adult,True,2009
+681,Eclipse,Stephenie Meyer,Romance,English,2007,"Little, Brown",629,"vampires,love triangle,war",3.7,USA,True,None,Young Adult,True,2010
+682,Breaking Dawn,Stephenie Meyer,Romance,English,2008,"Little, Brown",756,"vampires,marriage,finale",3.72,USA,True,British Book Award,Young Adult,True,2011
+683,A Court of Mist and Fury,Sarah J. Maas,Fantasy,English,2016,Bloomsbury,626,"romance,fae,epic",4.6,USA,True,Goodreads Choice Award,Adult,False,1998
+684,A Court of Wings and Ruin,Sarah J. Maas,Fantasy,English,2017,Bloomsbury,699,"war,romance,fae",4.46,USA,True,Goodreads Choice Award,Adult,False,1998
+685,Schindler's List,Thomas Keneally,Historical Fiction,English,1982,Simon & Schuster,448,"holocaust,history,heroism",4.35,Australia,True,Booker Prize,Adult,True,1993
+686,Brooklyn,Colm Tóibín,Historical Fiction,English,2009,Viking,262,"immigration,romance,history",3.92,Ireland,True,Costa Novel Award,Adult,True,2015
+687,The Reader,Bernhard Schlink,Historical Fiction,German,1995,Diogenes,218,"holocaust,law,romance",3.77,Germany,True,None,Adult,True,2008
+688,The Sea of Monsters,Rick Riordan,Fantasy,English,2006,Miramax,279,"mythology,adventure,sea",4.23,USA,True,None,Children,True,2013
+689,The Titan's Curse,Rick Riordan,Fantasy,English,2007,Hyperion,312,"mythology,adventure,prophecy",4.33,USA,True,None,Children,False,1998
+690,The Battle of the Labyrinth,Rick Riordan,Fantasy,English,2008,Hyperion,361,"mythology,maze,action",4.38,USA,True,None,Children,False,1998
+691,The Last Olympian,Rick Riordan,Fantasy,English,2009,Hyperion,381,"mythology,finale,war",4.5,USA,True,None,Children,False,1998
+692,Artemis Fowl: The Arctic Incident,Eoin Colfer,Fantasy,English,2002,Viking,288,"heist,fairies,sequel",3.93,Ireland,True,None,Children,False,1998
+693,The Tipping Point,Malcolm Gladwell,Non-fiction,English,2000,"Little, Brown",301,"sociology,business,psychology",3.98,Canada,True,None,Adult,False,1998
+694,Blink,Malcolm Gladwell,Psychology,English,2005,"Little, Brown",296,"psychology,decision making,science",3.94,Canada,True,None,Adult,False,1998
+695,Nudge,Richard H. Thaler,Economics,English,2008,Yale University Press,312,"economics,psychology,politics",3.84,USA,True,None,Adult,False,1998
+696,Predictably Irrational,Dan Ariely,Psychology,English,2008,HarperCollins,280,"economics,psychology,behavior",4.12,USA,True,None,Adult,False,1998
+697,Men at Arms,Terry Pratchett,Fantasy,English,1993,Gollancz,377,"satire,police,discworld",4.43,UK,True,None,Adult,False,1998
+698,Reaper Man,Terry Pratchett,Fantasy,English,1991,Gollancz,352,"death,humor,discworld",4.39,UK,True,None,Adult,False,1998
+699,Wyrd Sisters,Terry Pratchett,Fantasy,English,1988,Gollancz,265,"witches,shakespeare,humor",4.24,UK,True,None,Adult,True,1997
+700,The Valley of Fear,Arthur Conan Doyle,Detective,English,1915,"Smith, Elder & Co.",320,"mystery,sherlock,classic",4.0,UK,True,None,Adult,False,1998
+701,Foundation and Empire,Isaac Asimov,Sci-Fi,English,1952,Gnome Press,247,"scifi,psychohistory,empire",4.23,USA,True,None,Adult,True,2021
+702,Second Foundation,Isaac Asimov,Sci-Fi,English,1953,Gnome Press,225,"scifi,mystery,classic",4.25,USA,True,None,Adult,True,2021
+703,"Life, the Universe and Everything",Douglas Adams,Sci-Fi,English,1982,Pan Books,224,"humor,scifi,satire",4.19,UK,True,None,Adult,False,1998
+704,"So Long, and Thanks for All the Fish",Douglas Adams,Sci-Fi,English,1984,Pan Books,224,"humor,romance,dolphins",4.11,UK,True,None,Adult,False,1998
+705,The Light Fantastic,Terry Pratchett,Fantasy,English,1986,Colin Smythe,241,"humor,magic,discworld",3.99,UK,True,None,Adult,True,2008
+706,Equal Rites,Terry Pratchett,Fantasy,English,1987,Gollancz,228,"feminism,magic,discworld",4.09,UK,True,None,Adult,False,1998
+707,Sourcery,Terry Pratchett,Fantasy,English,1988,Gollancz,243,"humor,magic,discworld",4.04,UK,True,None,Adult,False,1998
+708,Eric,Terry Pratchett,Fantasy,English,1990,Gollancz,160,"humor,faust,discworld",3.93,UK,True,None,Adult,False,1998
+709,The Testaments,Margaret Atwood,Dystopian,English,2019,McClelland & Stewart,419,"dystopia,feminism,sequel",4.18,Canada,True,Booker Prize,Adult,False,1998
+710,Oryx and Crake,Margaret Atwood,Sci-Fi,English,2003,McClelland & Stewart,376,"dystopia,science,apocalypse",4.01,Canada,True,Booker Prize Shortlist,Adult,False,1998
+711,The Blind Assassin,Margaret Atwood,Historical Fiction,English,2000,McClelland & Stewart,521,"mystery,history,complex",3.96,Canada,True,Booker Prize,Adult,False,1998
+712,Alias Grace,Margaret Atwood,Historical Fiction,English,1996,McClelland & Stewart,468,"crime,history,canada",4.03,Canada,True,Giller Prize,Adult,True,2017
+713,Artemis,Andy Weir,Sci-Fi,English,2017,Crown,305,"moon,heist,science",3.67,USA,True,Goodreads Choice Award,Adult,False,1998
+714,Seveneves,Neal Stephenson,Sci-Fi,English,2015,William Morrow,880,"space,apocalypse,hard scifi",3.99,USA,True,None,Adult,False,1998
+715,Cryptonomicon,Neal Stephenson,Historical Fiction,English,1999,Avon,1139,"tech,history,coding",4.24,USA,True,Locus Award,Adult,False,1998
+717,Count Zero,William Gibson,Cyberpunk,English,1986,Gollancz,256,"cyberpunk,ai,hacker",3.93,USA,True,None,Adult,False,1998
+718,Mona Lisa Overdrive,William Gibson,Cyberpunk,English,1988,Gollancz,260,"cyberpunk,scifi,sequel",3.9,USA,True,None,Adult,False,1998
+719,The Magicians,Lev Grossman,Fantasy,English,2009,Viking,402,"magic,dark,narnia-esque",3.51,USA,True,Alex Award,Adult,True,2015
+720,Prince Caspian,C.S. Lewis,Fantasy,English,1951,Geoffrey Bles,223,"magic,classic,adventure",3.98,UK,True,None,Children,True,2008
+721,The Voyage of the Dawn Treader,C.S. Lewis,Fantasy,English,1952,Geoffrey Bles,248,"sea,adventure,magic",4.09,UK,True,None,Children,True,2010
+722,The Silver Chair,C.S. Lewis,Fantasy,English,1953,Geoffrey Bles,217,"magic,quest,classic",3.96,UK,True,None,Children,True,1990
+723,The Horse and His Boy,C.S. Lewis,Fantasy,English,1954,Geoffrey Bles,199,"adventure,horses,classic",3.92,UK,True,None,Children,False,1998
+724,La Belle Sauvage,Philip Pullman,Fantasy,English,2017,Knopf,451,"magic,prequel,adventure",4.05,UK,True,None,Young Adult,False,1998
+725,Cujo,Stephen King,Horror,English,1981,Viking,309,"horror,dog,tension",3.68,USA,True,None,Adult,True,1983
+726,Firestarter,Stephen King,Sci-Fi,English,1980,Viking,403,"powers,thriller,conspiracy",3.86,USA,True,None,Adult,True,1984
+727,The Dead Zone,Stephen King,Thriller,English,1979,Viking,402,"powers,politics,thriller",3.95,USA,True,None,Adult,True,1983
+728,Thinner,Stephen King,Horror,English,1984,NAL Books,309,"horror,curse,thriller",3.63,USA,True,None,Adult,True,1996
+729,Sputnik Sweetheart,Haruki Murakami,Fiction,Japanese,1999,Kodansha,210,"japan,mystery,love",3.82,Japan,True,None,Adult,False,1998
+730,After Dark,Haruki Murakami,Magical Realism,Japanese,2004,Kodansha,191,"japan,night,surreal",3.74,Japan,True,None,Adult,False,1998
+731,Demons,Fyodor Dostoevsky,Political Fiction,English,1872,The Russian Messenger,768,"russia,politics,philosophy",4.27,Russia,True,None,Adult,False,1998
+732,The Death of Ivan Ilyich,Leo Tolstoy,Novella,Russian,1886,Unknown,86,"death,philosophy,classic",4.05,Russia,True,None,Adult,True,1985
+733,Resurrection,Leo Tolstoy,Fiction,Russian,1899,Niva,503,"russia,redemption,justice",3.94,Russia,True,None,Adult,True,1960
+734,The Fall,Albert Camus,Philosophy,French,1956,Gallimard,147,"existentialism,monologue,philosophy",4.04,France,True,Nobel Prize,Adult,False,1998
+735,No Exit,Jean-Paul Sartre,Play,French,1944,Gallimard,60,"existentialism,play,hell",4.07,France,True,Nobel Prize,Adult,True,1954
+736,Death of a Salesman,Arthur Miller,Play,English,1949,Viking,144,"play,tragedy,american dream",3.76,USA,True,Pulitzer Prize,Adult,True,1985
+737,The Crucible,Arthur Miller,Play,English,1953,Viking,143,"play,history,hysteria",4.06,USA,True,Tony Award,Adult,True,1996
+738,A Streetcar Named Desire,Tennessee Williams,Play,English,1947,New Directions,107,"play,drama,south",3.98,USA,True,Pulitzer Prize,Adult,True,1951
+739,Cat on a Hot Tin Roof,Tennessee Williams,Play,English,1955,New Directions,173,"play,family,drama",4.06,USA,True,Pulitzer Prize,Adult,True,1958
+740,The Pearl,John Steinbeck,Parable,English,1947,Viking,96,"classic,greed,tragedy",3.44,USA,True,None,Adult,True,1947
+741,Cannery Row,John Steinbeck,Fiction,English,1945,Viking,181,"classic,humor,community",4.03,USA,True,None,Adult,True,1982
+742,The Red Pony,John Steinbeck,Novella,English,1933,Covici Friede,95,"classic,coming-of-age,horses",3.39,USA,True,None,Children,True,1949
+743,Stuart Little,E.B. White,Children's Fiction,English,1945,Harper & Brothers,131,"animals,classic,kids",3.85,USA,True,None,Children,True,1999
+744,The Trumpet of the Swan,E.B. White,Children's Fiction,English,1970,Harper & Row,252,"animals,music,classic",4.06,USA,True,None,Children,True,2001
+745,Mythology,Edith Hamilton,Non-fiction,English,1942,"Little, Brown",497,"mythology,history,classic",4.14,USA,True,None,Adult,False,1998
+746,Norse Mythology,Neil Gaiman,Fantasy,English,2017,W. W. Norton,301,"mythology,fantasy,retelling",4.09,UK,True,None,Adult,False,1998
+747,Silent Spring,Rachel Carson,Non-fiction,English,1962,Houghton Mifflin,368,"science,environment,classic",4.16,USA,True,National Book Award Nominee,Adult,False,1998
+748,"Saga, Vol. 1",Brian K. Vaughan,Graphic Novel,English,2012,Image Comics,160,"scifi,fantasy,comics",4.53,USA,True,"Hugo,Eisner",Adult,False,1998
+749,The Woman in Cabin 10,Ruth Ware,Thriller,English,2016,Harvill Secker,340,"mystery,cruise,suspense",3.68,UK,True,Goodreads Choice Nominee,Adult,False,1998
+750,Verity,Colleen Hoover,Thriller,English,2018,Independently published,314,"thriller,romance,twist",4.37,USA,True,Goodreads Choice Nominee,Adult,False,1998
+751,Inferno,Dan Brown,Thriller,English,2013,Doubleday,461,"mystery,dante,italy",3.86,USA,True,None,Adult,True,2016
+752,Origin,Dan Brown,Thriller,English,2017,Doubleday,461,"mystery,science,spain",3.83,USA,True,None,Adult,False,1998
+753,The Shadow Rising,Robert Jordan,Fantasy,English,1992,Tor Books,1001,"epic,desert,magic",4.27,USA,True,None,Adult,True,2021
+754,The Fires of Heaven,Robert Jordan,Fantasy,English,1993,Tor Books,912,"epic,war,politics",4.23,USA,True,None,Adult,True,2021
+755,Night Watch,Terry Pratchett,Fantasy,English,2002,Doubleday,480,"time travel,police,discworld",4.5,UK,True,Prometheus Award,Adult,False,1998
+756,Thud!,Terry Pratchett,Fantasy,English,2005,Doubleday,373,"mystery,fantasy,discworld",4.33,UK,True,None,Adult,False,1998
+757,The Moon Is a Harsh Mistress,Robert A. Heinlein,Sci-Fi,English,1966,Putnam,382,"politics,moon,revolution",4.16,USA,True,Hugo Award,Adult,False,1998
+758,Fragile Things,Neil Gaiman,Short Stories,English,2006,William Morrow,360,"fantasy,horror,anthology",4.03,UK,True,Locus Award,Adult,False,1998
+759,Elantris,Brandon Sanderson,Fantasy,English,2005,Tor Books,638,"magic,zombies,politics",4.18,USA,True,None,Adult,False,1998
+760,Warbreaker,Brandon Sanderson,Fantasy,English,2009,Tor Books,688,"magic,color,sisters",4.26,USA,True,None,Adult,False,1998
+761,The Great Alone,Kristin Hannah,Historical Fiction,English,2018,St. Martin's Press,440,"alaska,survival,family",4.34,USA,True,Goodreads Choice Award,Adult,False,1998
+762,The Four Winds,Kristin Hannah,Historical Fiction,English,2021,St. Martin's Press,464,"history,poverty,resilience",4.29,USA,True,None,Adult,False,1998
+763,Bad Blood: Secrets and Lies in a Silicon Valley Startup,John Carreyrou,Non-fiction,English,2018,Knopf,339,"crime,business,tech",4.38,USA,True,Financial Times Book of the Year,Adult,True,2019
+764,Empire of Pain,Patrick Radden Keefe,Non-fiction,English,2021,Doubleday,535,"history,business,crime",4.56,USA,True,Baillie Gifford Prize,Adult,False,1998
+765,Say Nothing,Patrick Radden Keefe,Non-fiction,English,2018,Doubleday,441,"history,crime,ireland",4.49,USA,True,Orwell Prize,Adult,False,1998
+766,The Spanish Love Deception,Elena Armas,Romance,English,2021,Simon & Schuster,482,"romance,fake dating,spain",3.92,Spain,True,Goodreads Choice Award,Adult,False,1998
+767,It Happened One Summer,Tessa Bailey,Romance,English,2021,Avon,397,"romance,schitt's creek,summer",4.07,USA,True,None,Adult,False,1998
+768,The Unhoneymooners,Christina Lauren,Romance,English,2019,Gallery Books,400,"romance,enemies to lovers,humor",4.04,USA,True,None,Adult,False,1998
+769,People We Meet on Vacation,Emily Henry,Romance,English,2021,Berkley,364,"romance,friends to lovers,travel",4.03,USA,True,Goodreads Choice Award,Adult,False,1998
+770,Happy Place,Emily Henry,Romance,English,2023,Berkley,400,"romance,second chance,summer",4.16,USA,True,Goodreads Choice Award,Adult,False,1998
+771,Malibu Rising,Taylor Jenkins Reid,Historical Fiction,English,2021,Ballantine,369,"family,drama,80s",4.07,USA,True,Goodreads Choice Award,Adult,False,1998
+772,Carrie Soto Is Back,Taylor Jenkins Reid,Fiction,English,2022,Ballantine,384,"sports,tennis,ambition",4.22,USA,True,Goodreads Choice Award,Adult,False,1998
+773,The Outsider,Stephen King,Horror,English,2018,Scribner,561,"crime,horror,supernatural",3.98,USA,True,Goodreads Choice Award,Adult,True,2020
+774,11/22/63,Stephen King,Sci-Fi,English,2011,Scribner,849,"time travel,history,thriller",4.3,USA,True,Locus Award,Adult,True,2016
+775,Under the Dome,Stephen King,Sci-Fi,English,2009,Scribner,1074,"sci-fi,survival,politics",3.92,USA,True,None,Adult,True,2013
+776,Bag of Bones,Stephen King,Horror,English,1998,Scribner,529,"ghosts,mystery,romance",3.9,USA,True,Bram Stoker Award,Adult,True,2011
+777,Needful Things,Stephen King,Horror,English,1991,Viking,690,"horror,small town,chaos",3.93,USA,True,None,Adult,True,1993
+778,Christine,Stephen King,Horror,English,1983,Viking,526,"horror,cars,classic",3.79,USA,True,None,Adult,True,1983
+779,The Giving Tree,Shel Silverstein,Children's Fiction,English,1964,Harper & Row,64,"classic,picture book,sad",4.37,USA,True,None,Children,False,1998
+780,Where the Sidewalk Ends,Shel Silverstein,Poetry,English,1974,Harper & Row,166,"poetry,humor,kids",4.3,USA,True,None,Children,False,1998
+781,Corduroy,Don Freeman,Children's Fiction,English,1968,Viking,32,"classic,bears,friendship",4.29,USA,True,None,Children,True,1984
+782,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",Judith Viorst,Children's Fiction,English,1972,Atheneum,32,"classic,humor,kids",4.22,USA,True,None,Children,True,2014
+783,Madeline,Ludwig Bemelmans,Children's Fiction,English,1939,Simon & Schuster,44,"paris,classic,rhyme",4.14,France,True,Caldecott Honor,Children,True,1998
+784,Curious George,H.A. Rey,Children's Fiction,English,1941,Houghton Mifflin,64,"classic,animals,monkey",4.13,USA,True,None,Children,True,2006
+785,Cloudy with a Chance of Meatballs,Judi Barrett,Children's Fiction,English,1978,Atheneum,32,"classic,food,humor",4.2,USA,True,None,Children,True,2009
+786,The Spy and the Traitor,Ben Macintyre,Non-fiction,English,2018,Viking,384,"spy,cold war,history",4.54,UK,True,Baillie Gifford Shortlist,Adult,False,1998
+787,Operation Mincemeat,Ben Macintyre,Non-fiction,English,2010,Bloomsbury,400,"war,history,spy",4.32,UK,True,None,Adult,True,2021
+788,The Likeness,Tana French,Mystery,English,2008,Viking,466,"crime,ireland,undercover",4.07,Ireland,True,None,Adult,True,2019
+789,Faithful Place,Tana French,Mystery,English,2010,Viking,400,"crime,ireland,family",4.06,Ireland,True,None,Adult,True,2019
+790,Gone Baby Gone,Dennis Lehane,Thriller,English,1998,William Morrow,414,"crime,boston,kidnap",4.13,USA,True,None,Adult,True,2007
+791,The Girl Who Kicked the Hornet's Nest,Stieg Larsson,Crime,English,2007,Norstedts,563,"hacker,sweden,conspiracy",4.22,Sweden,True,None,Adult,True,2009
+792,Before the Fall,Noah Hawley,Thriller,English,2016,Grand Central,400,"mystery,survival,media",3.73,USA,True,Edgar Award,Adult,False,1998
+793,The Snowman,Jo Nesbø,Crime,Norwegian,2007,Aschehoug,383,"crime,norway,serial killer",4.03,Norway,True,None,Adult,True,2017
+794,The Redbreast,Jo Nesbø,Crime,Norwegian,2000,Aschehoug,518,"crime,norway,history",4.0,Norway,True,Glass Key Award,Adult,False,1998
+795,Headhunters,Jo Nesbø,Thriller,Norwegian,2008,Aschehoug,304,"crime,heist,norway",3.84,Norway,True,None,Adult,True,2011
+796,Magpie Murders,Anthony Horowitz,Mystery,English,2016,Orion,496,"mystery,meta,whodunit",4.11,UK,True,None,Adult,True,2022
+797,The Word Is Murder,Anthony Horowitz,Mystery,English,2017,Century,390,"mystery,meta,sherlock",4.05,UK,True,None,Adult,False,1998
+798,The House of Silk,Anthony Horowitz,Mystery,English,2011,Orion,294,"mystery,sherlock,pastiche",3.99,UK,True,None,Adult,False,1998
+799,Moriarty,Anthony Horowitz,Mystery,English,2014,Orion,285,"mystery,sherlock,villain",3.75,UK,True,None,Adult,False,1998
+800,Nine Perfect Strangers,Liane Moriarty,Thriller,English,2018,Pan Macmillan,451,"mystery,resort,wellness",3.49,Australia,True,Goodreads Choice Nominee,Adult,True,2021
+801,Tell No One,Harlan Coben,Thriller,English,2001,Delacorte,339,"mystery,twist,romance",4.13,USA,True,None,Adult,True,2006
+802,The Stranger,Harlan Coben,Thriller,English,2015,Dutton,386,"mystery,secrets,family",3.96,USA,True,None,Adult,True,2020
+803,The Lincoln Lawyer,Michael Connelly,Crime,English,2005,"Little, Brown",404,"legal,crime,los angeles",4.18,USA,True,Shamus Award,Adult,True,2011
+804,The Black Echo,Michael Connelly,Crime,English,1992,"Little, Brown",482,"crime,detective,noir",4.14,USA,True,Edgar Award,Adult,True,2014
+805,The Poet,Michael Connelly,Thriller,English,1996,"Little, Brown",448,"crime,serial killer,mystery",4.26,USA,True,Anthony Award,Adult,False,1998
+806,Along Came a Spider,James Patterson,Thriller,English,1993,"Little, Brown",435,"crime,detective,suspense",4.09,USA,True,None,Adult,True,2001
+807,Kiss the Girls,James Patterson,Thriller,English,1995,"Little, Brown",464,"crime,serial killer,mystery",4.13,USA,True,None,Adult,True,1997
+808,The Bone Collector,Jeffery Deaver,Thriller,English,1997,Viking,528,"crime,forensics,mystery",4.19,USA,True,Nero Award,Adult,True,1999
+809,Presumed Innocent,Scott Turow,Legal Thriller,English,1987,"Farrar, Straus & Giroux",421,"legal,courtroom,mystery",4.05,USA,True,Silver Dagger,Adult,True,1990
+810,Defending Jacob,William Landay,Legal Thriller,English,2012,Delacorte,421,"legal,family,crime",4.04,USA,True,Strand Critics Award,Adult,True,2020
+811,Mystic River,Dennis Lehane,Thriller,English,2001,William Morrow,401,"crime,boston,tragedy",4.18,USA,True,Dilys Award,Adult,True,2003
+812,The Given Day,Dennis Lehane,Historical Fiction,English,2008,William Morrow,702,"history,boston,epic",4.12,USA,True,None,Adult,False,1998
+813,The Couple Next Door,Shari Lapena,Thriller,English,2016,Pamela Dorman,308,"mystery,kidnap,twist",3.82,Canada,True,None,Adult,False,1998
+814,Behind Closed Doors,B.A. Paris,Thriller,English,2016,St. Martin's Press,293,"mystery,psychology,suspense",4.0,UK,True,Goodreads Choice Nominee,Adult,False,1998
+815,The Last Thing He Told Me,Laura Dave,Thriller,English,2021,Simon & Schuster,303,"mystery,family,secrets",3.84,USA,True,Goodreads Choice Award,Adult,True,2023
+816,Then She Was Gone,Lisa Jewell,Thriller,English,2017,Century,359,"mystery,missing person,twist",4.07,UK,True,None,Adult,False,1998
+817,The Family Upstairs,Lisa Jewell,Thriller,English,2019,Atria,336,"mystery,dark,cult",3.99,UK,True,None,Adult,False,1998
+818,Local Woman Missing,Mary Kubica,Thriller,English,2021,Park Row,352,"mystery,kidnap,twist",4.1,USA,True,None,Adult,False,1998
+819,The Good Girl,Mary Kubica,Thriller,English,2014,Mira,352,"mystery,kidnap,twist",3.97,USA,True,None,Adult,False,1998
+820,The Silent Wife,A.S.A. Harrison,Thriller,English,2013,Penguin Canada,326,"mystery,marriage,psychology",3.6,Canada,True,None,Adult,False,1998
+821,Anatomy of a Scandal,Sarah Vaughan,Thriller,English,2018,Simon & Schuster,392,"legal,politics,marriage",3.79,UK,True,None,Adult,True,2022
+822,Apple Tree Yard,Louise Doughty,Thriller,English,2013,Faber & Faber,336,"crime,affair,courtroom",3.6,UK,True,None,Adult,True,2017
+823,The Girl Before,JP Delaney,Thriller,English,2017,Quercus,341,"mystery,architecture,suspense",3.8,UK,True,None,Adult,True,2021
+824,On Chesil Beach,Ian McEwan,Fiction,English,2007,Jonathan Cape,166,"romance,history,novella",3.44,UK,True,Booker Prize Shortlist,Adult,True,2017
+825,Amsterdam,Ian McEwan,Fiction,English,1998,Jonathan Cape,193,"satire,morality,tragedy",3.45,UK,True,Booker Prize,Adult,False,1998
+826,The Children Act,Ian McEwan,Fiction,English,2014,Jonathan Cape,224,"law,ethics,religion",3.87,UK,True,None,Adult,True,2018
+827,Beatrice and Virgil,Yann Martel,Fiction,English,2010,Spiegel & Grau,213,"allegory,holocaust,animals",3.14,Canada,True,None,Adult,False,1998
+828,The Starless Sea,Erin Morgenstern,Fantasy,English,2019,Doubleday,498,"magic,books,mystery",3.91,USA,True,Dragon Award Nominee,Adult,False,1998
+829,The Glass Hotel,Emily St. John Mandel,Fiction,English,2020,Knopf,302,"mystery,fraud,ghosts",3.83,Canada,True,None,Adult,False,1998
+830,Utopia Avenue,David Mitchell,Historical Fiction,English,2020,Sceptre,574,"music,60s,band",4.11,UK,True,None,Adult,False,1998
+831,Dandelion Wine,Ray Bradbury,Fiction,English,1957,Doubleday,239,"summer,childhood,nostalgia",4.13,USA,True,None,Adult,False,1998
+832,The Sirens of Titan,Kurt Vonnegut,Sci-Fi,English,1959,Delacorte,326,"satire,space,philosophy",4.16,USA,True,Hugo Nominee,Adult,False,1998
+833,Mother Night,Kurt Vonnegut,Historical Fiction,English,1961,Gold Medal Books,282,"war,satire,spy",4.22,USA,True,None,Adult,True,1996
+834,Player Piano,Kurt Vonnegut,Dystopian,English,1952,Scribner,320,"dystopia,automation,satire",3.93,USA,True,None,Adult,False,1998
+835,Galápagos,Kurt Vonnegut,Sci-Fi,English,1985,Delacorte,324,"evolution,satire,apocalypse",3.89,USA,True,None,Adult,False,1998
+836,"God Bless You, Mr. Rosewater",Kurt Vonnegut,Satire,English,1965,"Holt, Rinehart and Winston",275,"money,satire,humor",4.07,USA,True,None,Adult,False,1998
+837,Chocolat,Joanne Harris,Magical Realism,English,1999,Doubleday,306,"food,france,romance",3.99,UK,True,Whitbread Nominee,Adult,True,2000
+838,The Hundred-Foot Journey,Richard C. Morais,Fiction,English,2008,Scribner,256,"food,france,india",3.84,USA,True,None,Adult,True,2014
+839,Bastard Out of Carolina,Dorothy Allison,Fiction,English,1992,Dutton,309,"poverty,abuse,south",4.12,USA,True,National Book Award Finalist,Adult,True,1996
+840,Practical Magic,Alice Hoffman,Magical Realism,English,1995,Putnam,286,"magic,sisters,romance",3.85,USA,True,None,Adult,True,1998
+841,The Rules of Magic,Alice Hoffman,Fantasy,English,2017,Simon & Schuster,369,"magic,prequel,history",4.1,USA,True,None,Adult,False,1998
+842,The Dovekeepers,Alice Hoffman,Historical Fiction,English,2011,Scribner,504,"history,women,tragedy",4.07,USA,True,None,Adult,True,2015
+843,Frog Music,Emma Donoghue,Historical Fiction,English,2014,"Little, Brown",403,"crime,history,music",3.55,Canada,True,None,Adult,False,1998
+844,The Wonder,Emma Donoghue,Historical Fiction,English,2016,"Little, Brown",291,"history,ireland,mystery",3.76,Canada,True,Giller Prize Shortlist,Adult,True,2022
+845,Before I Fall,Lauren Oliver,Young Adult,English,2010,HarperCollins,470,"timeloop,school,redemption",3.91,USA,True,None,Young Adult,True,2017
+846,Delirium,Lauren Oliver,Dystopian,English,2011,HarperCollins,441,"dystopia,romance,love",3.96,USA,True,Goodreads Choice Nominee,Young Adult,False,1998
+847,Uglies,Scott Westerfeld,Dystopian,English,2005,Simon & Schuster,425,"dystopia,beauty,scifi",3.86,USA,True,None,Young Adult,True,2024
+848,Pretties,Scott Westerfeld,Dystopian,English,2005,Simon & Schuster,370,"dystopia,sequel,scifi",3.84,USA,True,None,Young Adult,False,1998
+849,Specials,Scott Westerfeld,Dystopian,English,2006,Simon & Schuster,372,"dystopia,action,finale",3.76,USA,True,None,Young Adult,False,1998
+850,Leviathan,Scott Westerfeld,Steampunk,English,2009,Simon & Schuster,440,"steampunk,war,history",4.18,USA,True,Locus Award,Young Adult,False,1998
+851,We Were Liars,E. Lockhart,Young Adult,English,2014,Delacorte,242,"mystery,twist,summer",3.84,USA,True,Goodreads Choice Award,Young Adult,False,1998
+852,One of Us Is Lying,Karen M. McManus,Mystery,English,2017,Delacorte,360,"mystery,high school,crime",4.03,USA,True,Goodreads Choice Nominee,Young Adult,True,2021
+853,A Good Girl's Guide to Murder,Holly Jackson,Mystery,English,2019,Electric Monkey,433,"mystery,crime,investigation",4.34,UK,True,British Book Award,Young Adult,True,2024
+854,The Inheritance Games,Jennifer Lynn Barnes,Mystery,English,2020,"Little, Brown",376,"mystery,puzzles,wealth",4.22,USA,True,Goodreads Choice Nominee,Young Adult,False,1998
+855,Truly Devious,Maureen Johnson,Mystery,English,2018,Katherine Tegen,416,"mystery,boarding school,crime",4.04,USA,True,None,Young Adult,False,1998
+856,Sadie,Courtney Summers,Thriller,English,2018,Wednesday Books,311,"mystery,podcast,revenge",4.11,Canada,True,Edgar Award,Young Adult,False,1998
+857,Simon vs. the Homo Sapiens Agenda,Becky Albertalli,Romance,English,2015,Balzer + Bray,303,"lgbt,romance,high school",4.23,USA,True,William C. Morris Award,Young Adult,True,2018
+858,They Both Die at the End,Adam Silvera,Young Adult,English,2017,HarperTeen,389,"lgbt,death,friendship",3.96,USA,True,Goodreads Choice Nominee,Young Adult,False,1998
+859,Aristotle and Dante Discover the Secrets of the Universe,Benjamin Alire Sáenz,Young Adult,English,2012,Simon & Schuster,359,"lgbt,coming-of-age,friendship",4.32,USA,True,Printz Honor,Young Adult,True,2023
+860,The Things They Carried,Tim O'Brien,War,English,1990,Houghton Mifflin,233,"war,history,classic",4.13,USA,True,National Book Award Finalist,Adult,False,1998
+861,Eleanor & Park,Rainbow Rowell,Romance,English,2013,St. Martin's Press,328,"romance,80s,teen",4.01,USA,True,Printz Honor,Young Adult,False,1998
+862,Fangirl,Rainbow Rowell,Young Adult,English,2013,St. Martin's Press,433,"fandom,college,romance",4.04,USA,True,None,Young Adult,False,1998
+863,Carry On,Rainbow Rowell,Fantasy,English,2015,St. Martin's Press,522,"magic,lgbt,satire",4.16,USA,True,None,Young Adult,False,1998
+864,Every Day,David Levithan,Fantasy,English,2012,Knopf,322,"romance,body swap,philosophy",3.92,USA,True,None,Young Adult,True,2018
+865,"Everything, Everything",Nicola Yoon,Romance,English,2015,Delacorte,306,"romance,illness,twist",4.01,USA,True,None,Young Adult,True,2017
+866,The Sun Is Also a Star,Nicola Yoon,Romance,English,2016,Delacorte,384,"romance,fate,immigration",4.03,USA,True,National Book Award Finalist,Young Adult,True,2019
+867,Speak,Laurie Halse Anderson,Young Adult,English,1999,"Farrar, Straus & Giroux",197,"trauma,school,classic",4.04,USA,True,National Book Award Finalist,Young Adult,True,2004
+868,The House on Mango Street,Sandra Cisneros,Fiction,English,1984,Arte Público,110,"classic,coming-of-age,latino",3.67,USA,True,American Book Award,Young Adult,False,1998
+869,Esperanza Rising,Pam Muñoz Ryan,Historical Fiction,English,2000,Scholastic,262,"history,immigration,family",4.07,USA,True,Pura Belpré Award,Children,False,1998
+870,The Poet X,Elizabeth Acevedo,Poetry,English,2018,HarperTeen,368,"poetry,coming-of-age,latino",4.42,USA,True,National Book Award,Young Adult,False,1998
+871,I'm Glad My Mom Died,Jennette McCurdy,Memoir,English,2022,Simon & Schuster,320,"memoir,hollywood,abuse",4.55,USA,True,Goodreads Choice Award,Adult,False,1998
+872,Crying in H Mart,Michelle Zauner,Memoir,English,2021,Knopf,239,"memoir,food,grief",4.28,USA,True,Goodreads Choice Award,Adult,False,1998
+873,Know My Name,Chanel Miller,Memoir,English,2019,Viking,384,"memoir,justice,trauma",4.7,USA,True,National Book Critics Circle Award,Adult,False,1998
+874,In the Dream House,Carmen Maria Machado,Memoir,English,2019,Graywolf Press,251,"memoir,lgbt,abuse",4.52,USA,True,None,Adult,False,1998
+875,My Dark Vanessa,Kate Elizabeth Russell,Fiction,English,2020,William Morrow,373,"trauma,psychology,controversial",3.93,USA,True,Goodreads Choice Nominee,Adult,False,1998
+876,Exciting Times,Naoise Dolan,Fiction,English,2020,Ecco,243,"romance,humor,satire",3.32,Ireland,True,None,Adult,False,1998
+877,Luster,Raven Leilani,Fiction,English,2020,"Farrar, Straus & Giroux",227,"race,art,satire",3.63,USA,True,Kirkus Prize,Adult,False,1998
+878,Bossypants,Tina Fey,Memoir,English,2011,Reagan Arthur,277,"humor,biography,snl",3.96,USA,True,None,Adult,False,1998
+879,Yes Please,Amy Poehler,Memoir,English,2014,Dey Street,329,"humor,biography,feminism",3.83,USA,True,None,Adult,False,1998
+880,"Detransition, Baby",Torrey Peters,Fiction,English,2021,One World,337,"lgbt,relationships,modern",3.96,USA,True,Women's Prize Nominee,Adult,False,1998
+881,Greenlights,Matthew McConaughey,Memoir,English,2020,Crown,304,"memoir,philosophy,hollywood",4.23,USA,True,Goodreads Choice Award,Adult,False,1998
+882,Boyfriend Material,Alexis Hall,Romance,English,2020,Sourcebooks Casablanca,425,"romance,lgbt,humor",4.09,UK,True,None,Adult,False,1998
+883,A Promised Land,Barack Obama,Memoir,English,2020,Crown,768,"memoir,politics,history",4.45,USA,True,None,Adult,False,1998
+884,Less Than Zero,Bret Easton Ellis,Fiction,English,1985,Simon & Schuster,195,"drugs,80s,nihilism",3.6,USA,True,None,Adult,True,1987
+885,Elon Musk,Walter Isaacson,Biography,English,2023,Simon & Schuster,688,"biography,tech,business",4.2,USA,True,None,Adult,False,1998
+886,Leonardo da Vinci,Walter Isaacson,Biography,English,2017,Simon & Schuster,600,"biography,art,history",4.24,USA,True,None,Adult,False,1998
+887,The Song of the Lioness: Alanna,Tamora Pierce,Fantasy,English,1983,Atheneum,274,"fantasy,magic,gender",4.27,USA,True,None,Young Adult,False,1998
+888,Homo Deus: A Brief History of Tomorrow,Yuval Noah Harari,History,English,2015,Harvill Secker,448,"future,science,philosophy",4.25,Israel,True,None,Adult,False,1998
+889,Wild Magic,Tamora Pierce,Fantasy,English,1992,Atheneum,362,"fantasy,animals,magic",4.32,USA,True,None,Young Adult,False,1998
+890,Chrestomanci: Charmed Life,Diana Wynne Jones,Fantasy,English,1977,Macmillan,256,"magic,classic,kids",4.03,UK,True,None,Children,False,1998
+891,Sabriel,Garth Nix,Fantasy,English,1995,HarperCollins,491,"magic,necromancy,fantasy",4.16,Australia,True,Aurealis Award,Young Adult,False,1998
+892,Lirael,Garth Nix,Fantasy,English,2001,HarperCollins,496,"magic,library,adventure",4.23,Australia,True,None,Young Adult,False,1998
+893,Abhorsen,Garth Nix,Fantasy,English,2003,HarperCollins,358,"magic,necromancy,finale",4.26,Australia,True,None,Young Adult,False,1998
+894,Graceling,Kristin Cashore,Fantasy,English,2008,Harcourt,471,"magic,romance,action",4.06,USA,True,None,Young Adult,False,1998
+895,The Selection,Kiera Cass,Dystopian,English,2012,HarperTeen,336,"romance,dystopia,royalty",4.09,USA,True,None,Young Adult,False,1998
+896,Red Queen,Victoria Aveyard,Fantasy,English,2015,HarperTeen,383,"fantasy,dystopia,powers",4.01,USA,True,Goodreads Choice Award,Young Adult,False,1998
+897,Shatter Me,Tahereh Mafi,Dystopian,English,2011,HarperCollins,338,"dystopia,romance,powers",3.96,USA,True,None,Young Adult,False,1998
+898,Legend,Marie Lu,Dystopian,English,2011,Putnam,305,"dystopia,action,romance",4.16,USA,True,None,Young Adult,False,1998
+899,An Ember in the Ashes,Sabaa Tahir,Fantasy,English,2015,Razorbill,446,"fantasy,romance,war",4.26,USA,True,None,Young Adult,False,1998
+900,The Wrath and the Dawn,Renée Ahdieh,Fantasy,English,2015,Putnam,388,"retelling,romance,magic",4.14,USA,True,None,Young Adult,False,1998
+901,Scythe,Neal Shusterman,Dystopian,English,2016,Simon & Schuster,435,"dystopia,death,scifi",4.33,USA,True,Printz Honor,Young Adult,False,1998
+902,Thunderhead,Neal Shusterman,Dystopian,English,2018,Simon & Schuster,504,"dystopia,ai,sequel",4.49,USA,True,None,Young Adult,False,1998
+903,The Toll,Neal Shusterman,Dystopian,English,2019,Simon & Schuster,625,"dystopia,finale,epic",4.18,USA,True,None,Young Adult,False,1998
+904,Unwind,Neal Shusterman,Dystopian,English,2007,Simon & Schuster,335,"dystopia,horror,survival",4.17,USA,True,None,Young Adult,False,1998
+905,Horns,Joe Hill,Horror,English,2010,William Morrow,370,"horror,dark fantasy,revenge",3.92,USA,True,None,Adult,True,2013
+906,NOS4A2,Joe Hill,Horror,English,2013,William Morrow,692,"horror,christmas,fantasy",3.92,USA,True,Bram Stoker Award Nominee,Adult,True,2019
+907,Heart-Shaped Box,Joe Hill,Horror,English,2007,William Morrow,376,"horror,ghosts,music",3.84,USA,True,Bram Stoker Award,Adult,False,1998
+908,The Fireman,Joe Hill,Horror,English,2016,William Morrow,747,"horror,apocalypse,virus",3.92,USA,True,Locus Award,Adult,False,1998
+909,Odd Thomas,Dean Koontz,Thriller,English,2003,Bantam,399,"horror,mystery,supernatural",4.03,USA,True,None,Adult,True,2013
+910,Watchers,Dean Koontz,Thriller,English,1987,Putnam,404,"horror,scifi,dog",4.17,USA,True,None,Adult,True,1988
+911,Intensity,Dean Koontz,Thriller,English,1995,Knopf,308,"thriller,suspense,psychology",4.07,USA,True,None,Adult,True,1997
+912,Phantoms,Dean Koontz,Horror,English,1983,Putnam,448,"horror,mystery,lovecraftian",3.92,USA,True,None,Adult,True,1998
+913,Uprooted,Naomi Novik,Fantasy,English,2015,Del Rey,435,"magic,fairytale,romance",4.06,USA,True,Nebula Award,Young Adult,False,1998
+914,Spinning Silver,Naomi Novik,Fantasy,English,2018,Del Rey,466,"magic,retelling,winter",4.23,USA,True,Locus Award,Young Adult,False,1998
+915,The Bear and the Nightingale,Katherine Arden,Fantasy,English,2017,Del Rey,323,"fantasy,russia,history",4.11,USA,True,None,Adult,False,1998
+916,The Girl in the Tower,Katherine Arden,Fantasy,English,2017,Del Rey,363,"fantasy,adventure,sequel",4.27,USA,True,None,Adult,False,1998
+917,The Winter of the Witch,Katherine Arden,Fantasy,English,2019,Del Rey,384,"fantasy,finale,russia",4.39,USA,True,None,Adult,False,1998
+918,The Rosie Project,Graeme Simsion,Romance,English,2013,Text Publishing,295,"romance,humor,autism",4.0,Australia,True,None,Adult,False,1998
+919,Britt-Marie Was Here,Fredrik Backman,Fiction,English,2014,Partners in Stories,324,"humor,sweden,heartwarming",4.07,Sweden,True,None,Adult,True,2019
+920,My Grandmother Asked Me to Tell You She's Sorry,Fredrik Backman,Fiction,English,2013,Forum,372,"humor,family,sweden",4.02,Sweden,True,None,Adult,False,1998
+921,The 100-Year-Old Man Who Climbed Out the Window and Disappeared,Jonas Jonasson,Satire,English,2009,Piratförlaget,384,"humor,sweden,history",3.83,Sweden,True,None,Adult,True,2013
+922,"Are You There God? It's Me, Margaret",Judy Blume,Children's Fiction,English,1970,Bradbury Press,149,"classic,puberty,girls",4.0,USA,True,None,Children,True,2023
+923,Tales of a Fourth Grade Nothing,Judy Blume,Children's Fiction,English,1972,Dutton,120,"humor,siblings,classic",4.1,USA,True,None,Children,False,1998
+924,Superfudge,Judy Blume,Children's Fiction,English,1980,Dutton,166,"humor,family,sequel",4.13,USA,True,None,Children,False,1998
+925,Frindle,Andrew Clements,Children's Fiction,English,1996,Simon & Schuster,105,"school,humor,language",4.16,USA,True,Christopher Award,Children,False,1998
+926,Stargirl,Jerry Spinelli,Young Adult,English,2000,Knopf,186,"school,conformity,romance",3.77,USA,True,None,Young Adult,True,2020
+927,Maniac Magee,Jerry Spinelli,Children's Fiction,English,1990,"Little, Brown",184,"race,legend,sports",3.96,USA,True,Newbery Medal,Children,True,2003
+928,Because of Winn-Dixie,Kate DiCamillo,Children's Fiction,English,2000,Candlewick,182,"dog,friendship,south",4.06,USA,True,Newbery Honor,Children,True,2005
+929,The Tale of Despereaux,Kate DiCamillo,Children's Fiction,English,2003,Candlewick,267,"fantasy,mouse,classic",3.98,USA,True,Newbery Medal,Children,True,2008
+930,Shiloh,Phyllis Reynolds Naylor,Children's Fiction,English,1991,Atheneum,144,"dog,ethics,classic",4.09,USA,True,Newbery Medal,Children,True,1996
+931,From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,Children's Fiction,English,1967,Atheneum,168,"adventure,museum,classic",4.17,USA,True,Newbery Medal,Children,True,1973
+932,The Terror,Dan Simmons,Horror,English,2007,"Little, Brown",769,"horror,history,survival",4.05,USA,True,None,Adult,True,2018
+933,The Ruins,Scott Smith,Horror,English,2006,Knopf,319,"horror,survival,nature",3.63,USA,True,None,Adult,True,2008
+934,A Simple Plan,Scott Smith,Thriller,English,1993,Knopf,335,"crime,greed,tragedy",4.04,USA,True,None,Adult,True,1998
+935,Q & A,Vikas Swarup,Fiction,English,2005,Doubleday,318,"india,game show,drama",4.02,India,True,Boeke Prize,Adult,True,2008
+936,Mao's Last Dancer,Li Cunxin,Memoir,English,2003,Viking,446,"memoir,dance,china",4.11,China,True,None,Adult,True,2009
+939,Airframe,Michael Crichton,Thriller,English,1996,Knopf,352,"aviation,mystery,tech",3.72,USA,True,None,Adult,False,1998
+940,Prey,Michael Crichton,Sci-Fi,English,2002,HarperCollins,367,"scifi,nano,horror",3.73,USA,True,None,Adult,False,1998
+941,State of Fear,Michael Crichton,Thriller,English,2004,HarperCollins,603,"action,controversial,tech",3.62,USA,True,None,Adult,False,1998
+942,The Client,John Grisham,Thriller,English,1993,Doubleday,422,"legal,crime,mafia",4.0,USA,True,None,Adult,True,1994
+943,The Runaway Jury,John Grisham,Thriller,English,1996,Doubleday,413,"legal,jury,manipulation",4.04,USA,True,None,Adult,True,2003
+944,The Rainmaker,John Grisham,Thriller,English,1995,Doubleday,434,"legal,underdog,courtroom",4.03,USA,True,None,Adult,True,1997
+945,Gerald's Game,Stephen King,Horror,English,1992,Viking,332,"horror,isolation,psychology",3.51,USA,True,None,Adult,True,2017
+946,Dolores Claiborne,Stephen King,Thriller,English,1992,Viking,305,"thriller,monologue,drama",4.02,USA,True,None,Adult,True,1995
+947,Duma Key,Stephen King,Horror,English,2008,Scribner,607,"horror,art,florida",4.03,USA,True,Bram Stoker Award,Adult,False,1998
+948,Joyland,Stephen King,Mystery,English,2013,Hard Case Crime,283,"mystery,carnival,coming-of-age",4.08,USA,True,None,Adult,False,1998
+949,Revival,Stephen King,Horror,English,2014,Scribner,405,"horror,lovecraftian,religion",3.77,USA,True,None,Adult,False,1998
+950,Gone,Michael Grant,Sci-Fi,English,2008,HarperTeen,560,"dystopia,powers,lord of the flies",3.88,USA,True,None,Young Adult,False,1998
+951,The Clan of the Cave Bear,Jean M. Auel,Historical Fiction,English,1980,Crown,468,"history,prehistoric,survival",4.08,USA,True,None,Adult,True,1986
+952,The Valley of Horses,Jean M. Auel,Historical Fiction,English,1982,Crown,502,"history,romance,adventure",4.06,USA,True,None,Adult,False,1998
+953,Roots: The Saga of an American Family,Alex Haley,Historical Fiction,English,1976,Doubleday,888,"history,slavery,family",4.45,USA,True,Pulitzer Prize,Adult,True,1977
+954,Sophie's Choice,William Styron,Historical Fiction,English,1979,Random House,515,"holocaust,tragedy,romance",4.11,USA,True,National Book Award,Adult,True,1982
+955,The Cider House Rules,John Irving,Fiction,English,1985,William Morrow,560,"morality,medicine,classic",4.14,USA,True,None,Adult,True,1999
+956,The Bonfire of the Vanities,Tom Wolfe,Satire,English,1987,"Farrar, Straus & Giroux",690,"new york,satire,80s",3.76,USA,True,None,Adult,True,1990
+957,A Man in Full,Tom Wolfe,Satire,English,1998,"Farrar, Straus & Giroux",742,"business,south,satire",3.89,USA,True,None,Adult,False,1998
+958,American Pastoral,Philip Roth,Fiction,English,1997,Houghton Mifflin,423,"politics,tragedy,family",3.94,USA,True,Pulitzer Prize,Adult,True,2016
+959,The Human Stain,Philip Roth,Fiction,English,2000,Houghton Mifflin,361,"identity,race,scandal",3.85,USA,True,PEN/Faulkner Award,Adult,True,2003
+960,"Rabbit, Run",John Updike,Fiction,English,1960,Knopf,255,"classic,dissatisfaction,men",3.76,USA,True,None,Adult,True,1970
+961,All the Pretty Horses,Cormac McCarthy,Western,English,1992,Knopf,302,"western,romance,coming-of-age",4.03,USA,True,National Book Award,Adult,True,2000
+962,The Crossing,Cormac McCarthy,Western,English,1994,Knopf,426,"western,nature,tragedy",4.11,USA,True,None,Adult,False,1998
+963,Childhood's End,Arthur C. Clarke,Sci-Fi,English,1953,Ballantine,212,"aliens,utopia,classic",4.1,UK,True,None,Adult,True,2015
+964,The City and the Stars,Arthur C. Clarke,Sci-Fi,English,1956,Harcourt,255,"future,utopia,exploration",4.11,UK,True,None,Adult,False,1998
+965,The Day of the Triffids,John Wyndham,Sci-Fi,English,1951,Michael Joseph,228,"apocalypse,plants,horror",4.04,UK,True,None,Adult,True,1962
+966,The Midwich Cuckoos,John Wyndham,Sci-Fi,English,1957,Michael Joseph,220,"aliens,horror,children",3.95,UK,True,None,Adult,True,1960
+967,Flowers in the Attic,V.C. Andrews,Gothic,English,1979,Simon & Schuster,412,"family,secrets,abuse",3.84,USA,True,None,Adult,True,1987
+968,Petals on the Wind,V.C. Andrews,Gothic,English,1980,Pocket Books,448,"revenge,romance,drama",3.76,USA,True,None,Adult,True,2014
+969,The Princess Diaries,Meg Cabot,Young Adult,English,2000,HarperCollins,283,"royalty,diary,humor",3.79,USA,True,None,Young Adult,True,2001
+970,Ella Enchanted,Gail Carson Levine,Fantasy,English,1997,HarperCollins,232,"fairytale,retelling,romance",3.98,USA,True,Newbery Honor,Children,True,2004
+971,The Sisterhood of the Traveling Pants,Ann Brashares,Young Adult,English,2001,Delacorte,294,"friendship,summer,growing up",3.78,USA,True,None,Young Adult,True,2005
+972,Gossip Girl,Cecily von Ziegesar,Young Adult,English,2002,"Little, Brown",224,"rich,scandal,new york",3.6,USA,True,None,Young Adult,True,2007
+973,Pretty Little Liars,Sara Shepard,Young Adult,English,2006,HarperTeen,286,"mystery,secrets,scandal",3.85,USA,True,None,Young Adult,True,2010
+974,Vampire Academy,Richelle Mead,Fantasy,English,2007,Razorbill,332,"vampires,romance,school",4.12,USA,True,None,Young Adult,True,2014
+975,Fallen,Lauren Kate,Fantasy,English,2009,Delacorte,452,"angels,romance,gothic",3.68,USA,True,None,Young Adult,True,2016
+976,Beautiful Creatures,Kami Garcia,Fantasy,English,2009,"Little, Brown",563,"magic,romance,south",3.75,USA,True,None,Young Adult,True,2013
+977,Blue Bloods,Melissa de la Cruz,Fantasy,English,2006,Disney-Hyperion,302,"vampires,fashion,mystery",3.67,USA,True,None,Young Adult,False,1998
+978,City of Glass,Cassandra Clare,Fantasy,English,2009,Margaret K. McElderry,541,"fantasy,action,romance",4.32,USA,True,None,Young Adult,False,1998
+979,Clockwork Angel,Cassandra Clare,Fantasy,English,2010,Margaret K. McElderry,479,"steampunk,magic,romance",4.32,USA,True,None,Young Adult,False,1998
+980,The Host,Stephenie Meyer,Sci-Fi,English,2008,"Little, Brown",619,"aliens,romance,identity",3.84,USA,True,None,Adult,True,2013
+981,Rich People Problems,Kevin Kwan,Satire,English,2017,Doubleday,398,"wealth,asia,satire",3.96,Singapore,True,None,Adult,False,1998
+982,Sex and the City,Candace Bushnell,Romance,English,1996,Atlantic Monthly,256,"dating,new york,columns",3.45,USA,True,None,Adult,True,1998
+983,Lipstick Jungle,Candace Bushnell,Romance,English,2005,Hyperion,368,"business,women,romance",3.38,USA,True,None,Adult,True,2008
+984,In Her Shoes,Jennifer Weiner,Fiction,English,2002,Atria,386,"sisters,family,humor",3.88,USA,True,None,Adult,True,2005
+985,Something Borrowed,Emily Giffin,Romance,English,2004,St. Martin's Press,322,"romance,friendship,drama",3.84,USA,True,None,Adult,True,2011
+986,The Last Song,Nicholas Sparks,Romance,English,2009,Grand Central,390,"romance,music,family",4.14,USA,True,None,Young Adult,True,2010
+987,Safe Haven,Nicholas Sparks,Romance,English,2010,Grand Central,340,"romance,mystery,suspense",4.18,USA,True,None,Adult,True,2013
+988,Message in a Bottle,Nicholas Sparks,Romance,English,1998,Warner Books,322,"romance,grief,letters",3.96,USA,True,None,Adult,True,1999
+989,Nights in Rodanthe,Nicholas Sparks,Romance,English,2002,Warner Books,224,"romance,storm,second chance",3.85,USA,True,None,Adult,True,2008
+990,A Bear Called Paddington,Michael Bond,Children's Fiction,English,1958,Collins,128,"animals,classic,humor",4.26,UK,True,None,Children,True,2014
+991,The Borrowers,Mary Norton,Children's Fiction,English,1952,Dent,180,"fantasy,classic,miniature",4.03,UK,True,Carnegie Medal,Children,True,1997
+992,Chitty Chitty Bang Bang,Ian Fleming,Children's Fiction,English,1964,Jonathan Cape,114,"cars,adventure,classic",3.7,UK,True,None,Children,True,1968
+993,The Hundred and One Dalmatians,Dodie Smith,Children's Fiction,English,1956,Heinemann,199,"dogs,adventure,villain",4.09,UK,True,None,Children,True,1961
+994,"Bambi, a Life in the Woods",Felix Salten,Children's Fiction,German,1923,Ullstein,293,"animals,nature,classic",3.92,Austria,True,None,Children,True,1942
+995,The Fox and the Hound,Daniel P. Mannix,Children's Fiction,English,1967,Dutton,255,"animals,nature,tragedy",4.08,USA,True,None,Children,True,1981
+996,The Mouse and the Motorcycle,Beverly Cleary,Children's Fiction,English,1965,William Morrow,158,"animals,humor,classic",4.11,USA,True,None,Children,True,1986
+997,"Ramona Quimby, Age 8",Beverly Cleary,Children's Fiction,English,1981,William Morrow,190,"school,family,humor",4.07,USA,True,Newbery Honor,Children,True,1988
+998,Dear Mr. Henshaw,Beverly Cleary,Children's Fiction,English,1983,William Morrow,134,"letters,family,growing up",3.98,USA,True,Newbery Medal,Children,False,1998
+999,Walk Two Moons,Sharon Creech,Children's Fiction,English,1994,HarperCollins,280,"road trip,family,grief",3.98,USA,True,Newbery Medal,Children,False,1998
+1000,Where the Red Fern Grows,Wilson Rawls,Children's Fiction,English,1961,Doubleday,212,"dogs,tragedy,classic",4.1,USA,True,None,Children,True,1974
+1001,Angels & Demons,Dan Brown,Mystery-Thriller,English,2000,Pocket Books,768,"thriller,mystery,conspiracy",3.9,US,True,None,Adult,True,2009
+1003,A Painted House,John Grisham,Drama,English,1999,Random House,416,"drama,coming-of-age,rural",3.6,US,False,None,Adult,False,1998
